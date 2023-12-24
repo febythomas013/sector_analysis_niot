@@ -1,0 +1,1155 @@
+Industry,Related Industry,Relation Type,Similarity Score
+"TTL_01T02: Agriculture, hunting, forestry",TTL_03: Fishing and aquaculture,Similar,0.7240845267545786
+"TTL_01T02: Agriculture, hunting, forestry","TTL_10T12: Food products, beverages and tobacco",Similar,0.8670549041319819
+"TTL_01T02: Agriculture, hunting, forestry","TTL_26: Computer, electronic and optical equipment",Similar,0.6711613532228016
+"TTL_01T02: Agriculture, hunting, forestry","TTL_28: Machinery and equipment, nec",Similar,0.6812912681492295
+"TTL_01T02: Agriculture, hunting, forestry","TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.6667952265206954
+"TTL_01T02: Agriculture, hunting, forestry","TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.6697650441812574
+"TTL_01T02: Agriculture, hunting, forestry",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7368985819045658
+"TTL_01T02: Agriculture, hunting, forestry",TTL_49: Land transport and transport via pipelines,Similar,0.7274051669256891
+"TTL_01T02: Agriculture, hunting, forestry",TTL_50: Water transport,Similar,0.6992726490857636
+"TTL_01T02: Agriculture, hunting, forestry",TTL_52: Warehousing and support activities for transportation,Similar,0.6886446066636038
+"TTL_01T02: Agriculture, hunting, forestry","TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.6708747466635158
+TTL_03: Fishing and aquaculture,"TTL_01T02: Agriculture, hunting, forestry",Similar,0.7240845267545786
+TTL_03: Fishing and aquaculture,"TTL_10T12: Food products, beverages and tobacco",Similar,0.7134006158569094
+TTL_09: Mining support service activities,TTL_16: Wood and products of wood and cork,Similar,0.6735424151820856
+TTL_09: Mining support service activities,TTL_19: Coke and refined petroleum products,Similar,0.6733566397856782
+TTL_09: Mining support service activities,TTL_24: Basic metals,Similar,0.6912925171442975
+TTL_09: Mining support service activities,TTL_25: Fabricated metal products,Similar,0.7210221880402379
+TTL_09: Mining support service activities,"TTL_26: Computer, electronic and optical equipment",Similar,0.6804666120463065
+TTL_09: Mining support service activities,TTL_27: Electrical equipment,Similar,0.7004775004146078
+TTL_09: Mining support service activities,"TTL_28: Machinery and equipment, nec",Similar,0.6944033263239657
+TTL_09: Mining support service activities,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.6895462617120436
+TTL_09: Mining support service activities,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.6798358371003733
+TTL_09: Mining support service activities,TTL_41T43: Construction,Similar,0.6927658181522192
+TTL_09: Mining support service activities,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.6896295385981388
+TTL_09: Mining support service activities,TTL_49: Land transport and transport via pipelines,Similar,0.7018035982914489
+TTL_09: Mining support service activities,TTL_50: Water transport,Similar,0.7201689767781053
+TTL_09: Mining support service activities,TTL_52: Warehousing and support activities for transportation,Similar,0.7007721552585884
+TTL_09: Mining support service activities,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.6771794423943662
+TTL_09: Mining support service activities,TTL_62T63: IT and other information services,Similar,0.6711393185345075
+TTL_09: Mining support service activities,"TTL_69T75: Professional, scientific and technical activities",Similar,0.671402829803245
+TTL_09: Mining support service activities,TTL_84: Public administration and defence; compulsory social security,Similar,0.6998496311398048
+TTL_09: Mining support service activities,TTL_94T96: Other service activities,Similar,0.7965972146311335
+"TTL_10T12: Food products, beverages and tobacco","TTL_01T02: Agriculture, hunting, forestry",Similar,0.8670549041319819
+"TTL_10T12: Food products, beverages and tobacco",TTL_03: Fishing and aquaculture,Similar,0.7134006158569094
+"TTL_10T12: Food products, beverages and tobacco",TTL_16: Wood and products of wood and cork,Similar,0.6738399307336063
+"TTL_10T12: Food products, beverages and tobacco",TTL_19: Coke and refined petroleum products,Similar,0.6969741620860489
+"TTL_10T12: Food products, beverages and tobacco",TTL_20: Chemical and chemical products,Similar,0.6976063058793015
+"TTL_10T12: Food products, beverages and tobacco",TTL_22: Rubber and plastics products,Similar,0.6823251618398603
+"TTL_10T12: Food products, beverages and tobacco",TTL_25: Fabricated metal products,Similar,0.6913905171017815
+"TTL_10T12: Food products, beverages and tobacco","TTL_26: Computer, electronic and optical equipment",Similar,0.7084014536955666
+"TTL_10T12: Food products, beverages and tobacco",TTL_27: Electrical equipment,Similar,0.6822693316039743
+"TTL_10T12: Food products, beverages and tobacco","TTL_28: Machinery and equipment, nec",Similar,0.7157400724879547
+"TTL_10T12: Food products, beverages and tobacco","TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7002733804200637
+"TTL_10T12: Food products, beverages and tobacco","TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7045748790080423
+"TTL_10T12: Food products, beverages and tobacco","TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.6846684923591867
+"TTL_10T12: Food products, beverages and tobacco",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7828525535759372
+"TTL_10T12: Food products, beverages and tobacco",TTL_49: Land transport and transport via pipelines,Similar,0.7634448437097282
+"TTL_10T12: Food products, beverages and tobacco",TTL_50: Water transport,Similar,0.7301471495025763
+"TTL_10T12: Food products, beverages and tobacco",TTL_51: Air transport,Similar,0.684197838286405
+"TTL_10T12: Food products, beverages and tobacco",TTL_52: Warehousing and support activities for transportation,Similar,0.7256249208678653
+"TTL_10T12: Food products, beverages and tobacco","TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7076664119372826
+"TTL_10T12: Food products, beverages and tobacco",TTL_64T66: Financial and insurance activities,Similar,0.6967554794582888
+"TTL_10T12: Food products, beverages and tobacco","TTL_69T75: Professional, scientific and technical activities",Similar,0.6804286158246737
+"TTL_10T12: Food products, beverages and tobacco",TTL_77T82: Administrative and support services,Similar,0.6789486052206792
+"TTL_10T12: Food products, beverages and tobacco",TTL_84: Public administration and defence; compulsory social security,Similar,0.7053937038811201
+"TTL_13T15: Textiles, textile products, leather and footwear",TTL_20: Chemical and chemical products,Similar,0.6797289650832625
+"TTL_13T15: Textiles, textile products, leather and footwear",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.6671065951079849
+TTL_16: Wood and products of wood and cork,TTL_09: Mining support service activities,Similar,0.6735424151820856
+TTL_16: Wood and products of wood and cork,"TTL_10T12: Food products, beverages and tobacco",Similar,0.6738399307336063
+TTL_16: Wood and products of wood and cork,TTL_17T18: Paper products and printing,Similar,0.6948176262449988
+TTL_16: Wood and products of wood and cork,TTL_19: Coke and refined petroleum products,Similar,0.7324269691305344
+TTL_16: Wood and products of wood and cork,TTL_20: Chemical and chemical products,Similar,0.7036820118124675
+TTL_16: Wood and products of wood and cork,TTL_22: Rubber and plastics products,Similar,0.7033046568222481
+TTL_16: Wood and products of wood and cork,TTL_24: Basic metals,Similar,0.7046203062194052
+TTL_16: Wood and products of wood and cork,TTL_25: Fabricated metal products,Similar,0.7313398283360969
+TTL_16: Wood and products of wood and cork,"TTL_26: Computer, electronic and optical equipment",Similar,0.7327522894812678
+TTL_16: Wood and products of wood and cork,TTL_27: Electrical equipment,Similar,0.722619852316624
+TTL_16: Wood and products of wood and cork,"TTL_28: Machinery and equipment, nec",Similar,0.7472212107259265
+TTL_16: Wood and products of wood and cork,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7354433752778246
+TTL_16: Wood and products of wood and cork,TTL_30: Other transport equipment,Similar,0.6774977736554484
+TTL_16: Wood and products of wood and cork,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7794377935755648
+TTL_16: Wood and products of wood and cork,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7435191670359937
+TTL_16: Wood and products of wood and cork,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7081761779727197
+TTL_16: Wood and products of wood and cork,TTL_41T43: Construction,Similar,0.6729947830518963
+TTL_16: Wood and products of wood and cork,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7645492405215996
+TTL_16: Wood and products of wood and cork,TTL_49: Land transport and transport via pipelines,Similar,0.7393391403395638
+TTL_16: Wood and products of wood and cork,TTL_50: Water transport,Similar,0.7381245087953611
+TTL_16: Wood and products of wood and cork,TTL_51: Air transport,Similar,0.7011240089075583
+TTL_16: Wood and products of wood and cork,TTL_52: Warehousing and support activities for transportation,Similar,0.7584828458825819
+TTL_16: Wood and products of wood and cork,TTL_53: Postal and courier activities,Similar,0.696880301668741
+TTL_16: Wood and products of wood and cork,TTL_55T56: Accommodation and food service activities,Similar,0.701177568842428
+TTL_16: Wood and products of wood and cork,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7435810571295551
+TTL_16: Wood and products of wood and cork,TTL_61: Telecommunications,Similar,0.6940771188205868
+TTL_16: Wood and products of wood and cork,TTL_62T63: IT and other information services,Similar,0.7002545140293043
+TTL_16: Wood and products of wood and cork,TTL_64T66: Financial and insurance activities,Similar,0.7326866620231405
+TTL_16: Wood and products of wood and cork,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7193400266599073
+TTL_16: Wood and products of wood and cork,TTL_77T82: Administrative and support services,Similar,0.717698488963288
+TTL_16: Wood and products of wood and cork,TTL_84: Public administration and defence; compulsory social security,Similar,0.7748828892552798
+TTL_16: Wood and products of wood and cork,TTL_85: Education,Similar,0.7001635978946542
+TTL_16: Wood and products of wood and cork,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7007587589239697
+TTL_16: Wood and products of wood and cork,TTL_94T96: Other service activities,Similar,0.7230615386343592
+TTL_17T18: Paper products and printing,TTL_16: Wood and products of wood and cork,Similar,0.6948176262449988
+TTL_17T18: Paper products and printing,TTL_19: Coke and refined petroleum products,Similar,0.7331465577082963
+TTL_17T18: Paper products and printing,TTL_20: Chemical and chemical products,Similar,0.678296913524487
+TTL_17T18: Paper products and printing,TTL_22: Rubber and plastics products,Similar,0.6872348372751815
+TTL_17T18: Paper products and printing,TTL_24: Basic metals,Similar,0.6707643742338985
+TTL_17T18: Paper products and printing,TTL_25: Fabricated metal products,Similar,0.692028405191851
+TTL_17T18: Paper products and printing,"TTL_26: Computer, electronic and optical equipment",Similar,0.7202107300919715
+TTL_17T18: Paper products and printing,TTL_27: Electrical equipment,Similar,0.6926736182572999
+TTL_17T18: Paper products and printing,"TTL_28: Machinery and equipment, nec",Similar,0.7072445815328141
+TTL_17T18: Paper products and printing,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7031495546938495
+TTL_17T18: Paper products and printing,TTL_30: Other transport equipment,Similar,0.6671290800090283
+TTL_17T18: Paper products and printing,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7320642583725201
+TTL_17T18: Paper products and printing,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7222372756006703
+TTL_17T18: Paper products and printing,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7217615472527855
+TTL_17T18: Paper products and printing,TTL_49: Land transport and transport via pipelines,Similar,0.7059561812589056
+TTL_17T18: Paper products and printing,TTL_50: Water transport,Similar,0.69767681716435
+TTL_17T18: Paper products and printing,TTL_51: Air transport,Similar,0.6967680043460369
+TTL_17T18: Paper products and printing,TTL_52: Warehousing and support activities for transportation,Similar,0.7134201639886326
+TTL_17T18: Paper products and printing,TTL_53: Postal and courier activities,Similar,0.7150154577541716
+TTL_17T18: Paper products and printing,TTL_55T56: Accommodation and food service activities,Similar,0.6806396800094888
+TTL_17T18: Paper products and printing,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.8015706130603559
+TTL_17T18: Paper products and printing,TTL_61: Telecommunications,Similar,0.7129236734903205
+TTL_17T18: Paper products and printing,TTL_62T63: IT and other information services,Similar,0.689420121291375
+TTL_17T18: Paper products and printing,TTL_64T66: Financial and insurance activities,Similar,0.7236401851283237
+TTL_17T18: Paper products and printing,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7204112850621157
+TTL_17T18: Paper products and printing,TTL_77T82: Administrative and support services,Similar,0.7267713181253492
+TTL_17T18: Paper products and printing,TTL_84: Public administration and defence; compulsory social security,Similar,0.7381336621371727
+TTL_17T18: Paper products and printing,TTL_85: Education,Similar,0.7029785392690734
+TTL_17T18: Paper products and printing,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7208586642428423
+TTL_17T18: Paper products and printing,TTL_94T96: Other service activities,Similar,0.6936821674495895
+TTL_19: Coke and refined petroleum products,TTL_09: Mining support service activities,Similar,0.6733566397856782
+TTL_19: Coke and refined petroleum products,"TTL_10T12: Food products, beverages and tobacco",Similar,0.6969741620860489
+TTL_19: Coke and refined petroleum products,TTL_16: Wood and products of wood and cork,Similar,0.7324269691305344
+TTL_19: Coke and refined petroleum products,TTL_17T18: Paper products and printing,Similar,0.7331465577082963
+TTL_19: Coke and refined petroleum products,TTL_20: Chemical and chemical products,Similar,0.7360372076268399
+TTL_19: Coke and refined petroleum products,TTL_22: Rubber and plastics products,Similar,0.7319283364488016
+TTL_19: Coke and refined petroleum products,TTL_24: Basic metals,Similar,0.7212011485798473
+TTL_19: Coke and refined petroleum products,TTL_25: Fabricated metal products,Similar,0.756139966700735
+TTL_19: Coke and refined petroleum products,"TTL_26: Computer, electronic and optical equipment",Similar,0.7751957939013512
+TTL_19: Coke and refined petroleum products,TTL_27: Electrical equipment,Similar,0.7495258696057456
+TTL_19: Coke and refined petroleum products,"TTL_28: Machinery and equipment, nec",Similar,0.7717471246658381
+TTL_19: Coke and refined petroleum products,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7638979133962714
+TTL_19: Coke and refined petroleum products,TTL_30: Other transport equipment,Similar,0.7053554493629359
+TTL_19: Coke and refined petroleum products,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6977282118621665
+TTL_19: Coke and refined petroleum products,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.8130537939118345
+TTL_19: Coke and refined petroleum products,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.8101997268011991
+TTL_19: Coke and refined petroleum products,TTL_41T43: Construction,Similar,0.6869585236040981
+TTL_19: Coke and refined petroleum products,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.8102254080093128
+TTL_19: Coke and refined petroleum products,TTL_49: Land transport and transport via pipelines,Similar,0.7825676085585573
+TTL_19: Coke and refined petroleum products,TTL_50: Water transport,Similar,0.7695341739257754
+TTL_19: Coke and refined petroleum products,TTL_51: Air transport,Similar,0.730244066466381
+TTL_19: Coke and refined petroleum products,TTL_52: Warehousing and support activities for transportation,Similar,0.7916773541685618
+TTL_19: Coke and refined petroleum products,TTL_53: Postal and courier activities,Similar,0.8256970125351247
+TTL_19: Coke and refined petroleum products,TTL_55T56: Accommodation and food service activities,Similar,0.7386066461862507
+TTL_19: Coke and refined petroleum products,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.8198940368070974
+TTL_19: Coke and refined petroleum products,TTL_61: Telecommunications,Similar,0.8301062639516468
+TTL_19: Coke and refined petroleum products,TTL_62T63: IT and other information services,Similar,0.7417359874022161
+TTL_19: Coke and refined petroleum products,TTL_64T66: Financial and insurance activities,Similar,0.7817589048926779
+TTL_19: Coke and refined petroleum products,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7694289150530886
+TTL_19: Coke and refined petroleum products,TTL_77T82: Administrative and support services,Similar,0.7830058010562457
+TTL_19: Coke and refined petroleum products,TTL_84: Public administration and defence; compulsory social security,Similar,0.8168541096849969
+TTL_19: Coke and refined petroleum products,TTL_85: Education,Similar,0.7351857492322734
+TTL_19: Coke and refined petroleum products,"TTL_90T93: Arts, entertainment and recreation",Similar,0.75748905726171
+TTL_19: Coke and refined petroleum products,TTL_94T96: Other service activities,Similar,0.7402106853770615
+TTL_20: Chemical and chemical products,"TTL_10T12: Food products, beverages and tobacco",Similar,0.6976063058793015
+TTL_20: Chemical and chemical products,"TTL_13T15: Textiles, textile products, leather and footwear",Similar,0.6797289650832625
+TTL_20: Chemical and chemical products,TTL_16: Wood and products of wood and cork,Similar,0.7036820118124675
+TTL_20: Chemical and chemical products,TTL_17T18: Paper products and printing,Similar,0.678296913524487
+TTL_20: Chemical and chemical products,TTL_19: Coke and refined petroleum products,Similar,0.7360372076268399
+TTL_20: Chemical and chemical products,TTL_22: Rubber and plastics products,Similar,0.7249629674344685
+TTL_20: Chemical and chemical products,TTL_24: Basic metals,Similar,0.694611668023715
+TTL_20: Chemical and chemical products,TTL_25: Fabricated metal products,Similar,0.7275343034044539
+TTL_20: Chemical and chemical products,"TTL_26: Computer, electronic and optical equipment",Similar,0.7400542552159015
+TTL_20: Chemical and chemical products,TTL_27: Electrical equipment,Similar,0.7143343315489932
+TTL_20: Chemical and chemical products,"TTL_28: Machinery and equipment, nec",Similar,0.7390600504014296
+TTL_20: Chemical and chemical products,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7330725791602735
+TTL_20: Chemical and chemical products,TTL_30: Other transport equipment,Similar,0.6680818617963146
+TTL_20: Chemical and chemical products,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6840715440958961
+TTL_20: Chemical and chemical products,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7340865927236776
+TTL_20: Chemical and chemical products,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.6924396085178836
+TTL_20: Chemical and chemical products,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7763693128608747
+TTL_20: Chemical and chemical products,TTL_49: Land transport and transport via pipelines,Similar,0.7496133971675577
+TTL_20: Chemical and chemical products,TTL_50: Water transport,Similar,0.7345680627760738
+TTL_20: Chemical and chemical products,TTL_51: Air transport,Similar,0.6813815511229371
+TTL_20: Chemical and chemical products,TTL_52: Warehousing and support activities for transportation,Similar,0.7326683409154303
+TTL_20: Chemical and chemical products,TTL_53: Postal and courier activities,Similar,0.6796257269909807
+TTL_20: Chemical and chemical products,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7351013651758351
+TTL_20: Chemical and chemical products,TTL_61: Telecommunications,Similar,0.6776103938996552
+TTL_20: Chemical and chemical products,TTL_62T63: IT and other information services,Similar,0.6790214627559503
+TTL_20: Chemical and chemical products,TTL_64T66: Financial and insurance activities,Similar,0.7102641710194275
+TTL_20: Chemical and chemical products,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7045830004820056
+TTL_20: Chemical and chemical products,TTL_77T82: Administrative and support services,Similar,0.7010212430455252
+TTL_20: Chemical and chemical products,TTL_84: Public administration and defence; compulsory social security,Similar,0.7454487775692515
+TTL_20: Chemical and chemical products,TTL_85: Education,Similar,0.6720021793101032
+TTL_20: Chemical and chemical products,"TTL_90T93: Arts, entertainment and recreation",Similar,0.6866944990005046
+TTL_20: Chemical and chemical products,TTL_94T96: Other service activities,Similar,0.6991377502915918
+"TTL_21: Pharmaceuticals, medicinal chemical and botanical products",TTL_86T88: Human health and social work activities,Similar,0.8001184995748177
+TTL_22: Rubber and plastics products,"TTL_10T12: Food products, beverages and tobacco",Similar,0.6823251618398603
+TTL_22: Rubber and plastics products,TTL_16: Wood and products of wood and cork,Similar,0.7033046568222481
+TTL_22: Rubber and plastics products,TTL_17T18: Paper products and printing,Similar,0.6872348372751815
+TTL_22: Rubber and plastics products,TTL_19: Coke and refined petroleum products,Similar,0.7319283364488016
+TTL_22: Rubber and plastics products,TTL_20: Chemical and chemical products,Similar,0.7249629674344685
+TTL_22: Rubber and plastics products,TTL_24: Basic metals,Similar,0.770198853382867
+TTL_22: Rubber and plastics products,TTL_25: Fabricated metal products,Similar,0.7781657943977082
+TTL_22: Rubber and plastics products,"TTL_26: Computer, electronic and optical equipment",Similar,0.7656564011094958
+TTL_22: Rubber and plastics products,TTL_27: Electrical equipment,Similar,0.7791849331466816
+TTL_22: Rubber and plastics products,"TTL_28: Machinery and equipment, nec",Similar,0.8144236736510196
+TTL_22: Rubber and plastics products,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.8795875301774306
+TTL_22: Rubber and plastics products,TTL_30: Other transport equipment,Similar,0.7580658064383409
+TTL_22: Rubber and plastics products,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6851577484052338
+TTL_22: Rubber and plastics products,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7715429063207828
+TTL_22: Rubber and plastics products,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.707665263078511
+TTL_22: Rubber and plastics products,TTL_41T43: Construction,Similar,0.6675793666910661
+TTL_22: Rubber and plastics products,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7698230917954516
+TTL_22: Rubber and plastics products,TTL_49: Land transport and transport via pipelines,Similar,0.7589894569395544
+TTL_22: Rubber and plastics products,TTL_50: Water transport,Similar,0.7471129555374486
+TTL_22: Rubber and plastics products,TTL_51: Air transport,Similar,0.6887179463456418
+TTL_22: Rubber and plastics products,TTL_52: Warehousing and support activities for transportation,Similar,0.7419843024645383
+TTL_22: Rubber and plastics products,TTL_53: Postal and courier activities,Similar,0.694674354610703
+TTL_22: Rubber and plastics products,TTL_55T56: Accommodation and food service activities,Similar,0.6750593201014603
+TTL_22: Rubber and plastics products,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7577447124419772
+TTL_22: Rubber and plastics products,TTL_61: Telecommunications,Similar,0.6944052901983919
+TTL_22: Rubber and plastics products,TTL_62T63: IT and other information services,Similar,0.6888326779021493
+TTL_22: Rubber and plastics products,TTL_64T66: Financial and insurance activities,Similar,0.7121737940107943
+TTL_22: Rubber and plastics products,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7179516626157005
+TTL_22: Rubber and plastics products,TTL_77T82: Administrative and support services,Similar,0.7131898231863874
+TTL_22: Rubber and plastics products,TTL_84: Public administration and defence; compulsory social security,Similar,0.7523371193567323
+TTL_22: Rubber and plastics products,TTL_85: Education,Similar,0.6764423158579314
+TTL_22: Rubber and plastics products,"TTL_90T93: Arts, entertainment and recreation",Similar,0.6964785340280897
+TTL_22: Rubber and plastics products,TTL_94T96: Other service activities,Similar,0.69910840474024
+TTL_23: Other non-metallic mineral products,TTL_41T43: Construction,Similar,0.7047397870606023
+TTL_23: Other non-metallic mineral products,TTL_68: Real estate activities,Similar,0.7427255196470666
+TTL_24: Basic metals,TTL_09: Mining support service activities,Similar,0.6912925171442975
+TTL_24: Basic metals,TTL_16: Wood and products of wood and cork,Similar,0.7046203062194052
+TTL_24: Basic metals,TTL_17T18: Paper products and printing,Similar,0.6707643742338985
+TTL_24: Basic metals,TTL_19: Coke and refined petroleum products,Similar,0.7212011485798473
+TTL_24: Basic metals,TTL_20: Chemical and chemical products,Similar,0.694611668023715
+TTL_24: Basic metals,TTL_22: Rubber and plastics products,Similar,0.770198853382867
+TTL_24: Basic metals,TTL_25: Fabricated metal products,Similar,0.8927587482280779
+TTL_24: Basic metals,"TTL_26: Computer, electronic and optical equipment",Similar,0.7606690874750345
+TTL_24: Basic metals,TTL_27: Electrical equipment,Similar,0.834017401101335
+TTL_24: Basic metals,"TTL_28: Machinery and equipment, nec",Similar,0.8243378165456366
+TTL_24: Basic metals,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.8401664517327474
+TTL_24: Basic metals,TTL_30: Other transport equipment,Similar,0.6964594997345187
+TTL_24: Basic metals,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6905444118234353
+TTL_24: Basic metals,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7628719357860726
+TTL_24: Basic metals,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7021040100327381
+TTL_24: Basic metals,TTL_41T43: Construction,Similar,0.7331331815914717
+TTL_24: Basic metals,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7585130118472674
+TTL_24: Basic metals,TTL_49: Land transport and transport via pipelines,Similar,0.8019151997497648
+TTL_24: Basic metals,TTL_50: Water transport,Similar,0.8126354498413368
+TTL_24: Basic metals,TTL_51: Air transport,Similar,0.690791506653136
+TTL_24: Basic metals,TTL_52: Warehousing and support activities for transportation,Similar,0.767654981240505
+TTL_24: Basic metals,TTL_53: Postal and courier activities,Similar,0.6860622702903884
+TTL_24: Basic metals,TTL_55T56: Accommodation and food service activities,Similar,0.6837242004073295
+TTL_24: Basic metals,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7342014473964764
+TTL_24: Basic metals,TTL_61: Telecommunications,Similar,0.6891187990053735
+TTL_24: Basic metals,TTL_62T63: IT and other information services,Similar,0.7059225390364653
+TTL_24: Basic metals,TTL_64T66: Financial and insurance activities,Similar,0.7046797819110816
+TTL_24: Basic metals,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7161640498387806
+TTL_24: Basic metals,TTL_77T82: Administrative and support services,Similar,0.7061451234758492
+TTL_24: Basic metals,TTL_84: Public administration and defence; compulsory social security,Similar,0.772849246357947
+TTL_24: Basic metals,TTL_85: Education,Similar,0.6672552091410878
+TTL_24: Basic metals,"TTL_90T93: Arts, entertainment and recreation",Similar,0.6867701545579508
+TTL_24: Basic metals,TTL_94T96: Other service activities,Similar,0.7024158037731891
+TTL_25: Fabricated metal products,TTL_09: Mining support service activities,Similar,0.7210221880402379
+TTL_25: Fabricated metal products,"TTL_10T12: Food products, beverages and tobacco",Similar,0.6913905171017815
+TTL_25: Fabricated metal products,TTL_16: Wood and products of wood and cork,Similar,0.7313398283360969
+TTL_25: Fabricated metal products,TTL_17T18: Paper products and printing,Similar,0.692028405191851
+TTL_25: Fabricated metal products,TTL_19: Coke and refined petroleum products,Similar,0.756139966700735
+TTL_25: Fabricated metal products,TTL_20: Chemical and chemical products,Similar,0.7275343034044539
+TTL_25: Fabricated metal products,TTL_22: Rubber and plastics products,Similar,0.7781657943977082
+TTL_25: Fabricated metal products,TTL_24: Basic metals,Similar,0.8927587482280779
+TTL_25: Fabricated metal products,"TTL_26: Computer, electronic and optical equipment",Similar,0.7925676504401219
+TTL_25: Fabricated metal products,TTL_27: Electrical equipment,Similar,0.8730302585126164
+TTL_25: Fabricated metal products,"TTL_28: Machinery and equipment, nec",Similar,0.8563927473885466
+TTL_25: Fabricated metal products,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.8583348618955154
+TTL_25: Fabricated metal products,TTL_30: Other transport equipment,Similar,0.706725042905919
+TTL_25: Fabricated metal products,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7059636981346308
+TTL_25: Fabricated metal products,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7958763438308035
+TTL_25: Fabricated metal products,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7305253165061487
+TTL_25: Fabricated metal products,TTL_41T43: Construction,Similar,0.7693823194284368
+TTL_25: Fabricated metal products,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.8084099416142292
+TTL_25: Fabricated metal products,TTL_49: Land transport and transport via pipelines,Similar,0.8504203038374387
+TTL_25: Fabricated metal products,TTL_50: Water transport,Similar,0.8771040563925618
+TTL_25: Fabricated metal products,TTL_51: Air transport,Similar,0.7173535962594705
+TTL_25: Fabricated metal products,TTL_52: Warehousing and support activities for transportation,Similar,0.8127361993014176
+TTL_25: Fabricated metal products,TTL_53: Postal and courier activities,Similar,0.7130356507969073
+TTL_25: Fabricated metal products,TTL_55T56: Accommodation and food service activities,Similar,0.7130418676359344
+TTL_25: Fabricated metal products,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7684095645220685
+TTL_25: Fabricated metal products,TTL_61: Telecommunications,Similar,0.7173446596502713
+TTL_25: Fabricated metal products,TTL_62T63: IT and other information services,Similar,0.736158977749262
+TTL_25: Fabricated metal products,TTL_64T66: Financial and insurance activities,Similar,0.7382862743884047
+TTL_25: Fabricated metal products,TTL_68: Real estate activities,Similar,0.6871955532652859
+TTL_25: Fabricated metal products,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7416689373834086
+TTL_25: Fabricated metal products,TTL_77T82: Administrative and support services,Similar,0.7320604393538929
+TTL_25: Fabricated metal products,TTL_84: Public administration and defence; compulsory social security,Similar,0.807142283965812
+TTL_25: Fabricated metal products,TTL_85: Education,Similar,0.6912766531147947
+TTL_25: Fabricated metal products,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7119994205440704
+TTL_25: Fabricated metal products,TTL_94T96: Other service activities,Similar,0.731107426071915
+"TTL_26: Computer, electronic and optical equipment","TTL_01T02: Agriculture, hunting, forestry",Similar,0.6711613532228015
+"TTL_26: Computer, electronic and optical equipment",TTL_09: Mining support service activities,Similar,0.6804666120463065
+"TTL_26: Computer, electronic and optical equipment","TTL_10T12: Food products, beverages and tobacco",Similar,0.7084014536955666
+"TTL_26: Computer, electronic and optical equipment",TTL_16: Wood and products of wood and cork,Similar,0.7327522894812678
+"TTL_26: Computer, electronic and optical equipment",TTL_17T18: Paper products and printing,Similar,0.7202107300919715
+"TTL_26: Computer, electronic and optical equipment",TTL_19: Coke and refined petroleum products,Similar,0.7751957939013512
+"TTL_26: Computer, electronic and optical equipment",TTL_20: Chemical and chemical products,Similar,0.7400542552159015
+"TTL_26: Computer, electronic and optical equipment",TTL_22: Rubber and plastics products,Similar,0.7656564011094958
+"TTL_26: Computer, electronic and optical equipment",TTL_24: Basic metals,Similar,0.7606690874750345
+"TTL_26: Computer, electronic and optical equipment",TTL_25: Fabricated metal products,Similar,0.7925676504401219
+"TTL_26: Computer, electronic and optical equipment",TTL_27: Electrical equipment,Similar,0.8221087129480518
+"TTL_26: Computer, electronic and optical equipment","TTL_28: Machinery and equipment, nec",Similar,0.8097446571195774
+"TTL_26: Computer, electronic and optical equipment","TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.8034254138825746
+"TTL_26: Computer, electronic and optical equipment",TTL_30: Other transport equipment,Similar,0.70836231657297
+"TTL_26: Computer, electronic and optical equipment",TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7050913210310947
+"TTL_26: Computer, electronic and optical equipment","TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.82462218254266
+"TTL_26: Computer, electronic and optical equipment","TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7458621248885972
+"TTL_26: Computer, electronic and optical equipment",TTL_41T43: Construction,Similar,0.6932867259561952
+"TTL_26: Computer, electronic and optical equipment",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.8151554348300881
+"TTL_26: Computer, electronic and optical equipment",TTL_49: Land transport and transport via pipelines,Similar,0.802919983397483
+"TTL_26: Computer, electronic and optical equipment",TTL_50: Water transport,Similar,0.7896454454597839
+"TTL_26: Computer, electronic and optical equipment",TTL_51: Air transport,Similar,0.7256023868908569
+"TTL_26: Computer, electronic and optical equipment",TTL_52: Warehousing and support activities for transportation,Similar,0.7926182759495124
+"TTL_26: Computer, electronic and optical equipment",TTL_53: Postal and courier activities,Similar,0.7544437328002332
+"TTL_26: Computer, electronic and optical equipment",TTL_55T56: Accommodation and food service activities,Similar,0.7090481287587033
+"TTL_26: Computer, electronic and optical equipment","TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.8002769939921737
+"TTL_26: Computer, electronic and optical equipment",TTL_61: Telecommunications,Similar,0.7493494407230186
+"TTL_26: Computer, electronic and optical equipment",TTL_62T63: IT and other information services,Similar,0.7257050817651399
+"TTL_26: Computer, electronic and optical equipment",TTL_64T66: Financial and insurance activities,Similar,0.757432440906062
+"TTL_26: Computer, electronic and optical equipment","TTL_69T75: Professional, scientific and technical activities",Similar,0.7755416602608923
+"TTL_26: Computer, electronic and optical equipment",TTL_77T82: Administrative and support services,Similar,0.7700339322352678
+"TTL_26: Computer, electronic and optical equipment",TTL_84: Public administration and defence; compulsory social security,Similar,0.81730164854543
+"TTL_26: Computer, electronic and optical equipment",TTL_85: Education,Similar,0.7135186490279106
+"TTL_26: Computer, electronic and optical equipment","TTL_90T93: Arts, entertainment and recreation",Similar,0.7301270277760995
+"TTL_26: Computer, electronic and optical equipment",TTL_94T96: Other service activities,Similar,0.7325760913941618
+TTL_27: Electrical equipment,TTL_09: Mining support service activities,Similar,0.7004775004146078
+TTL_27: Electrical equipment,"TTL_10T12: Food products, beverages and tobacco",Similar,0.6822693316039743
+TTL_27: Electrical equipment,TTL_16: Wood and products of wood and cork,Similar,0.722619852316624
+TTL_27: Electrical equipment,TTL_17T18: Paper products and printing,Similar,0.6926736182572999
+TTL_27: Electrical equipment,TTL_19: Coke and refined petroleum products,Similar,0.7495258696057456
+TTL_27: Electrical equipment,TTL_20: Chemical and chemical products,Similar,0.7143343315489932
+TTL_27: Electrical equipment,TTL_22: Rubber and plastics products,Similar,0.7791849331466816
+TTL_27: Electrical equipment,TTL_24: Basic metals,Similar,0.834017401101335
+TTL_27: Electrical equipment,TTL_25: Fabricated metal products,Similar,0.8730302585126164
+TTL_27: Electrical equipment,"TTL_26: Computer, electronic and optical equipment",Similar,0.8221087129480518
+TTL_27: Electrical equipment,"TTL_28: Machinery and equipment, nec",Similar,0.8405430262958639
+TTL_27: Electrical equipment,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.8470986085407418
+TTL_27: Electrical equipment,TTL_30: Other transport equipment,Similar,0.7063465156386076
+TTL_27: Electrical equipment,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6973153373457022
+TTL_27: Electrical equipment,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.800108078408668
+TTL_27: Electrical equipment,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7335775406585915
+TTL_27: Electrical equipment,TTL_41T43: Construction,Similar,0.7553989119595209
+TTL_27: Electrical equipment,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.788891473930183
+TTL_27: Electrical equipment,TTL_49: Land transport and transport via pipelines,Similar,0.8004582371244029
+TTL_27: Electrical equipment,TTL_50: Water transport,Similar,0.8222061738712245
+TTL_27: Electrical equipment,TTL_51: Air transport,Similar,0.7150506173949547
+TTL_27: Electrical equipment,TTL_52: Warehousing and support activities for transportation,Similar,0.786929472816024
+TTL_27: Electrical equipment,TTL_53: Postal and courier activities,Similar,0.7243545050913442
+TTL_27: Electrical equipment,TTL_55T56: Accommodation and food service activities,Similar,0.716142615007608
+TTL_27: Electrical equipment,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7669582531937933
+TTL_27: Electrical equipment,TTL_61: Telecommunications,Similar,0.7278526296240073
+TTL_27: Electrical equipment,TTL_62T63: IT and other information services,Similar,0.7330350092720503
+TTL_27: Electrical equipment,TTL_64T66: Financial and insurance activities,Similar,0.7369212135951945
+TTL_27: Electrical equipment,TTL_68: Real estate activities,Similar,0.6836766006582129
+TTL_27: Electrical equipment,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7470943044710194
+TTL_27: Electrical equipment,TTL_77T82: Administrative and support services,Similar,0.7370316545277996
+TTL_27: Electrical equipment,TTL_84: Public administration and defence; compulsory social security,Similar,0.788688412943323
+TTL_27: Electrical equipment,TTL_85: Education,Similar,0.6920753383947051
+TTL_27: Electrical equipment,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7116383577620222
+TTL_27: Electrical equipment,TTL_94T96: Other service activities,Similar,0.721768189352949
+"TTL_28: Machinery and equipment, nec","TTL_01T02: Agriculture, hunting, forestry",Similar,0.6812912681492295
+"TTL_28: Machinery and equipment, nec",TTL_09: Mining support service activities,Similar,0.6944033263239657
+"TTL_28: Machinery and equipment, nec","TTL_10T12: Food products, beverages and tobacco",Similar,0.7157400724879547
+"TTL_28: Machinery and equipment, nec",TTL_16: Wood and products of wood and cork,Similar,0.7472212107259265
+"TTL_28: Machinery and equipment, nec",TTL_17T18: Paper products and printing,Similar,0.7072445815328141
+"TTL_28: Machinery and equipment, nec",TTL_19: Coke and refined petroleum products,Similar,0.7717471246658381
+"TTL_28: Machinery and equipment, nec",TTL_20: Chemical and chemical products,Similar,0.7390600504014296
+"TTL_28: Machinery and equipment, nec",TTL_22: Rubber and plastics products,Similar,0.8144236736510196
+"TTL_28: Machinery and equipment, nec",TTL_24: Basic metals,Similar,0.8243378165456366
+"TTL_28: Machinery and equipment, nec",TTL_25: Fabricated metal products,Similar,0.8563927473885466
+"TTL_28: Machinery and equipment, nec","TTL_26: Computer, electronic and optical equipment",Similar,0.8097446571195774
+"TTL_28: Machinery and equipment, nec",TTL_27: Electrical equipment,Similar,0.8405430262958639
+"TTL_28: Machinery and equipment, nec","TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.894110583940625
+"TTL_28: Machinery and equipment, nec",TTL_30: Other transport equipment,Similar,0.7349902213566075
+"TTL_28: Machinery and equipment, nec",TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7095391200288752
+"TTL_28: Machinery and equipment, nec","TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.8271544214626314
+"TTL_28: Machinery and equipment, nec","TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7387980227323463
+"TTL_28: Machinery and equipment, nec",TTL_41T43: Construction,Similar,0.7135347971591511
+"TTL_28: Machinery and equipment, nec",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.8315846024958629
+"TTL_28: Machinery and equipment, nec",TTL_49: Land transport and transport via pipelines,Similar,0.8317417345589493
+"TTL_28: Machinery and equipment, nec",TTL_50: Water transport,Similar,0.8209502419382042
+"TTL_28: Machinery and equipment, nec",TTL_51: Air transport,Similar,0.7230759595918648
+"TTL_28: Machinery and equipment, nec",TTL_52: Warehousing and support activities for transportation,Similar,0.8046117541629778
+"TTL_28: Machinery and equipment, nec",TTL_53: Postal and courier activities,Similar,0.7228776622544872
+"TTL_28: Machinery and equipment, nec",TTL_55T56: Accommodation and food service activities,Similar,0.7093335620468216
+"TTL_28: Machinery and equipment, nec","TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7953897670241743
+"TTL_28: Machinery and equipment, nec",TTL_61: Telecommunications,Similar,0.7228013374129627
+"TTL_28: Machinery and equipment, nec",TTL_62T63: IT and other information services,Similar,0.728419759792338
+"TTL_28: Machinery and equipment, nec",TTL_64T66: Financial and insurance activities,Similar,0.7560333701511941
+"TTL_28: Machinery and equipment, nec","TTL_69T75: Professional, scientific and technical activities",Similar,0.7625199216390333
+"TTL_28: Machinery and equipment, nec",TTL_77T82: Administrative and support services,Similar,0.7523399732247787
+"TTL_28: Machinery and equipment, nec",TTL_84: Public administration and defence; compulsory social security,Similar,0.8140133905325133
+"TTL_28: Machinery and equipment, nec",TTL_85: Education,Similar,0.7059748923778498
+"TTL_28: Machinery and equipment, nec","TTL_90T93: Arts, entertainment and recreation",Similar,0.7247251214866383
+"TTL_28: Machinery and equipment, nec",TTL_94T96: Other service activities,Similar,0.7382670345281568
+"TTL_29: Motor vehicles, trailers and semi-trailers","TTL_01T02: Agriculture, hunting, forestry",Similar,0.6667952265206954
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_09: Mining support service activities,Similar,0.6895462617120436
+"TTL_29: Motor vehicles, trailers and semi-trailers","TTL_10T12: Food products, beverages and tobacco",Similar,0.7002733804200637
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_16: Wood and products of wood and cork,Similar,0.7354433752778246
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_17T18: Paper products and printing,Similar,0.7031495546938495
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_19: Coke and refined petroleum products,Similar,0.7638979133962714
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_20: Chemical and chemical products,Similar,0.7330725791602735
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_22: Rubber and plastics products,Similar,0.8795875301774306
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_24: Basic metals,Similar,0.8401664517327474
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_25: Fabricated metal products,Similar,0.8583348618955154
+"TTL_29: Motor vehicles, trailers and semi-trailers","TTL_26: Computer, electronic and optical equipment",Similar,0.8034254138825746
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_27: Electrical equipment,Similar,0.8470986085407418
+"TTL_29: Motor vehicles, trailers and semi-trailers","TTL_28: Machinery and equipment, nec",Similar,0.894110583940625
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_30: Other transport equipment,Similar,0.7490742218289238
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7073782542258046
+"TTL_29: Motor vehicles, trailers and semi-trailers","TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.8183170399570928
+"TTL_29: Motor vehicles, trailers and semi-trailers","TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7355660034095213
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_41T43: Construction,Similar,0.712294647937799
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.8138538677867337
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_49: Land transport and transport via pipelines,Similar,0.81687664472282
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_50: Water transport,Similar,0.8109668822837376
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_51: Air transport,Similar,0.7175928067002902
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_52: Warehousing and support activities for transportation,Similar,0.7951753963337915
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_53: Postal and courier activities,Similar,0.7202791161813635
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_55T56: Accommodation and food service activities,Similar,0.7074371305086834
+"TTL_29: Motor vehicles, trailers and semi-trailers","TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7885329202752474
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_61: Telecommunications,Similar,0.7211299729402199
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_62T63: IT and other information services,Similar,0.7235291201828783
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_64T66: Financial and insurance activities,Similar,0.7457286903356173
+"TTL_29: Motor vehicles, trailers and semi-trailers","TTL_69T75: Professional, scientific and technical activities",Similar,0.7510060312832565
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_77T82: Administrative and support services,Similar,0.7432188088022225
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_84: Public administration and defence; compulsory social security,Similar,0.8024176013499004
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_85: Education,Similar,0.700512163508505
+"TTL_29: Motor vehicles, trailers and semi-trailers","TTL_90T93: Arts, entertainment and recreation",Similar,0.7195049579970862
+"TTL_29: Motor vehicles, trailers and semi-trailers",TTL_94T96: Other service activities,Similar,0.7292934144527757
+TTL_30: Other transport equipment,TTL_16: Wood and products of wood and cork,Similar,0.6774977736554484
+TTL_30: Other transport equipment,TTL_17T18: Paper products and printing,Similar,0.6671290800090283
+TTL_30: Other transport equipment,TTL_19: Coke and refined petroleum products,Similar,0.7053554493629359
+TTL_30: Other transport equipment,TTL_20: Chemical and chemical products,Similar,0.6680818617963146
+TTL_30: Other transport equipment,TTL_22: Rubber and plastics products,Similar,0.7580658064383409
+TTL_30: Other transport equipment,TTL_24: Basic metals,Similar,0.6964594997345187
+TTL_30: Other transport equipment,TTL_25: Fabricated metal products,Similar,0.706725042905919
+TTL_30: Other transport equipment,"TTL_26: Computer, electronic and optical equipment",Similar,0.70836231657297
+TTL_30: Other transport equipment,TTL_27: Electrical equipment,Similar,0.7063465156386076
+TTL_30: Other transport equipment,"TTL_28: Machinery and equipment, nec",Similar,0.7349902213566075
+TTL_30: Other transport equipment,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7490742218289238
+TTL_30: Other transport equipment,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7274845746983413
+TTL_30: Other transport equipment,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.6961488760892944
+TTL_30: Other transport equipment,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7128812212816691
+TTL_30: Other transport equipment,TTL_49: Land transport and transport via pipelines,Similar,0.6996329194518099
+TTL_30: Other transport equipment,TTL_50: Water transport,Similar,0.6921592059904411
+TTL_30: Other transport equipment,TTL_51: Air transport,Similar,0.6797038781536094
+TTL_30: Other transport equipment,TTL_52: Warehousing and support activities for transportation,Similar,0.705637819591919
+TTL_30: Other transport equipment,TTL_53: Postal and courier activities,Similar,0.6801395799922644
+TTL_30: Other transport equipment,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7208504103585236
+TTL_30: Other transport equipment,TTL_61: Telecommunications,Similar,0.6779360346622577
+TTL_30: Other transport equipment,TTL_64T66: Financial and insurance activities,Similar,0.6931213535501002
+TTL_30: Other transport equipment,"TTL_69T75: Professional, scientific and technical activities",Similar,0.6933772492931093
+TTL_30: Other transport equipment,TTL_77T82: Administrative and support services,Similar,0.6930367566715324
+TTL_30: Other transport equipment,TTL_84: Public administration and defence; compulsory social security,Similar,0.717210872249912
+TTL_30: Other transport equipment,TTL_85: Education,Similar,0.6694572105873275
+TTL_30: Other transport equipment,"TTL_90T93: Arts, entertainment and recreation",Similar,0.677670301805704
+TTL_30: Other transport equipment,TTL_94T96: Other service activities,Similar,0.672030375694064
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_16: Wood and products of wood and cork,Similar,0.7794377935755648
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_19: Coke and refined petroleum products,Similar,0.6977282118621665
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_20: Chemical and chemical products,Similar,0.6840715440958961
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_22: Rubber and plastics products,Similar,0.6851577484052338
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_24: Basic metals,Similar,0.6905444118234353
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_25: Fabricated metal products,Similar,0.7059636981346308
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,"TTL_26: Computer, electronic and optical equipment",Similar,0.7050913210310947
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_27: Electrical equipment,Similar,0.6973153373457022
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,"TTL_28: Machinery and equipment, nec",Similar,0.7095391200288752
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7073782542258046
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7046203101191932
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.6803115379829267
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7276579413080887
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_49: Land transport and transport via pipelines,Similar,0.7105216312440049
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_50: Water transport,Similar,0.7072611454602513
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_51: Air transport,Similar,0.6671380291546228
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_52: Warehousing and support activities for transportation,Similar,0.7061051380506753
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_53: Postal and courier activities,Similar,0.6700078808940116
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7053593269229079
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_61: Telecommunications,Similar,0.6695881070603669
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_62T63: IT and other information services,Similar,0.6692592840485596
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_64T66: Financial and insurance activities,Similar,0.6879423393894408
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,"TTL_69T75: Professional, scientific and technical activities",Similar,0.6838306356634412
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_77T82: Administrative and support services,Similar,0.6817019900859183
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_84: Public administration and defence; compulsory social security,Similar,0.7387594060224222
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,"TTL_90T93: Arts, entertainment and recreation",Similar,0.6722168995148008
+TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,TTL_94T96: Other service activities,Similar,0.6794905838470565
+"TTL_35: Electricity, gas, steam and air conditioning supply","TTL_01T02: Agriculture, hunting, forestry",Similar,0.6697650441812574
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_09: Mining support service activities,Similar,0.6798358371003733
+"TTL_35: Electricity, gas, steam and air conditioning supply","TTL_10T12: Food products, beverages and tobacco",Similar,0.7045748790080423
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_16: Wood and products of wood and cork,Similar,0.7435191670359937
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_17T18: Paper products and printing,Similar,0.7320642583725201
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_19: Coke and refined petroleum products,Similar,0.8130537939118345
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_20: Chemical and chemical products,Similar,0.7340865927236776
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_22: Rubber and plastics products,Similar,0.7715429063207828
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_24: Basic metals,Similar,0.7628719357860726
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_25: Fabricated metal products,Similar,0.7958763438308035
+"TTL_35: Electricity, gas, steam and air conditioning supply","TTL_26: Computer, electronic and optical equipment",Similar,0.82462218254266
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_27: Electrical equipment,Similar,0.800108078408668
+"TTL_35: Electricity, gas, steam and air conditioning supply","TTL_28: Machinery and equipment, nec",Similar,0.8271544214626314
+"TTL_35: Electricity, gas, steam and air conditioning supply","TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.8183170399570928
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_30: Other transport equipment,Similar,0.7274845746983413
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7046203101191932
+"TTL_35: Electricity, gas, steam and air conditioning supply","TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7936955155383965
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_41T43: Construction,Similar,0.7009000044796622
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.8237609405172719
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_49: Land transport and transport via pipelines,Similar,0.8057800956125284
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_50: Water transport,Similar,0.7902488908189352
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_51: Air transport,Similar,0.766712712478098
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_52: Warehousing and support activities for transportation,Similar,0.8261894979378503
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_53: Postal and courier activities,Similar,0.777502212026232
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_55T56: Accommodation and food service activities,Similar,0.767980102322038
+"TTL_35: Electricity, gas, steam and air conditioning supply","TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.8382336073720014
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_61: Telecommunications,Similar,0.7708440425942308
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_62T63: IT and other information services,Similar,0.7414914120388197
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_64T66: Financial and insurance activities,Similar,0.8291753937562981
+"TTL_35: Electricity, gas, steam and air conditioning supply","TTL_69T75: Professional, scientific and technical activities",Similar,0.7936767359529353
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_77T82: Administrative and support services,Similar,0.7889853840236843
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_84: Public administration and defence; compulsory social security,Similar,0.8415237533542869
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_85: Education,Similar,0.7557345832432426
+"TTL_35: Electricity, gas, steam and air conditioning supply","TTL_90T93: Arts, entertainment and recreation",Similar,0.7516293066052686
+"TTL_35: Electricity, gas, steam and air conditioning supply",TTL_94T96: Other service activities,Similar,0.7460044584979539
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities","TTL_10T12: Food products, beverages and tobacco",Similar,0.6846684923591867
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_16: Wood and products of wood and cork,Similar,0.7081761779727197
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_17T18: Paper products and printing,Similar,0.7222372756006703
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_19: Coke and refined petroleum products,Similar,0.8101997268011991
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_20: Chemical and chemical products,Similar,0.6924396085178836
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_22: Rubber and plastics products,Similar,0.707665263078511
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_24: Basic metals,Similar,0.7021040100327381
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_25: Fabricated metal products,Similar,0.7305253165061487
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities","TTL_26: Computer, electronic and optical equipment",Similar,0.7458621248885972
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_27: Electrical equipment,Similar,0.7335775406585915
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities","TTL_28: Machinery and equipment, nec",Similar,0.7387980227323463
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities","TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7355660034095213
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_30: Other transport equipment,Similar,0.6961488760892944
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6803115379829267
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities","TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7936955155383965
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_41T43: Construction,Similar,0.6882948865919067
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7621693375267189
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_49: Land transport and transport via pipelines,Similar,0.7459439950774459
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_50: Water transport,Similar,0.7490148334243618
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_51: Air transport,Similar,0.7985995168124082
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_52: Warehousing and support activities for transportation,Similar,0.7759502864263997
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_53: Postal and courier activities,Similar,0.7964687943222445
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_55T56: Accommodation and food service activities,Similar,0.7701977739410708
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities","TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.8021749329906979
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_61: Telecommunications,Similar,0.7972054850693199
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_62T63: IT and other information services,Similar,0.737614178467952
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_64T66: Financial and insurance activities,Similar,0.79025836473334
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities","TTL_69T75: Professional, scientific and technical activities",Similar,0.7719049480890069
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_77T82: Administrative and support services,Similar,0.7783424591889918
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_84: Public administration and defence; compulsory social security,Similar,0.794711048648129
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_85: Education,Similar,0.7443369175238953
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities","TTL_90T93: Arts, entertainment and recreation",Similar,0.7505057591674553
+"TTL_36T39: Water supply; sewerage, waste management and remediation activities",TTL_94T96: Other service activities,Similar,0.7325696703542093
+TTL_41T43: Construction,TTL_09: Mining support service activities,Similar,0.6927658181522192
+TTL_41T43: Construction,TTL_16: Wood and products of wood and cork,Similar,0.6729947830518963
+TTL_41T43: Construction,TTL_19: Coke and refined petroleum products,Similar,0.6869585236040983
+TTL_41T43: Construction,TTL_22: Rubber and plastics products,Similar,0.6675793666910661
+TTL_41T43: Construction,TTL_23: Other non-metallic mineral products,Similar,0.7047397870606023
+TTL_41T43: Construction,TTL_24: Basic metals,Similar,0.7331331815914717
+TTL_41T43: Construction,TTL_25: Fabricated metal products,Similar,0.7693823194284368
+TTL_41T43: Construction,"TTL_26: Computer, electronic and optical equipment",Similar,0.6932867259561952
+TTL_41T43: Construction,TTL_27: Electrical equipment,Similar,0.7553989119595209
+TTL_41T43: Construction,"TTL_28: Machinery and equipment, nec",Similar,0.7135347971591511
+TTL_41T43: Construction,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.712294647937799
+TTL_41T43: Construction,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7009000044796622
+TTL_41T43: Construction,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.6882948865919067
+TTL_41T43: Construction,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7071768569076577
+TTL_41T43: Construction,TTL_49: Land transport and transport via pipelines,Similar,0.7292465888053445
+TTL_41T43: Construction,TTL_50: Water transport,Similar,0.7784544515958469
+TTL_41T43: Construction,TTL_51: Air transport,Similar,0.6764232557292988
+TTL_41T43: Construction,TTL_52: Warehousing and support activities for transportation,Similar,0.7281929121231047
+TTL_41T43: Construction,TTL_53: Postal and courier activities,Similar,0.6698000034481132
+TTL_41T43: Construction,TTL_55T56: Accommodation and food service activities,Similar,0.6934208310660959
+TTL_41T43: Construction,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.6868071522929567
+TTL_41T43: Construction,TTL_61: Telecommunications,Similar,0.678357802423706
+TTL_41T43: Construction,TTL_62T63: IT and other information services,Similar,0.7476770038903058
+TTL_41T43: Construction,TTL_64T66: Financial and insurance activities,Similar,0.6849709089258925
+TTL_41T43: Construction,TTL_68: Real estate activities,Similar,0.7621546781441793
+TTL_41T43: Construction,"TTL_69T75: Professional, scientific and technical activities",Similar,0.676700851558141
+TTL_41T43: Construction,TTL_77T82: Administrative and support services,Similar,0.67050935313151
+TTL_41T43: Construction,TTL_84: Public administration and defence; compulsory social security,Similar,0.7098731510987872
+TTL_41T43: Construction,TTL_94T96: Other service activities,Similar,0.670712936494245
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_01T02: Agriculture, hunting, forestry",Similar,0.7368985819045658
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_09: Mining support service activities,Similar,0.6896295385981388
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_10T12: Food products, beverages and tobacco",Similar,0.7828525535759372
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_13T15: Textiles, textile products, leather and footwear",Similar,0.6671065951079849
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_16: Wood and products of wood and cork,Similar,0.7645492405215996
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_17T18: Paper products and printing,Similar,0.7217615472527855
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_19: Coke and refined petroleum products,Similar,0.8102254080093128
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_20: Chemical and chemical products,Similar,0.7763693128608747
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_22: Rubber and plastics products,Similar,0.7698230917954516
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_24: Basic metals,Similar,0.7585130118472674
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_25: Fabricated metal products,Similar,0.8084099416142292
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_26: Computer, electronic and optical equipment",Similar,0.8151554348300881
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_27: Electrical equipment,Similar,0.788891473930183
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_28: Machinery and equipment, nec",Similar,0.8315846024958629
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.8138538677867337
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_30: Other transport equipment,Similar,0.7128812212816691
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7276579413080887
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.8237609405172719
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7621693375267189
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_41T43: Construction,Similar,0.7071768569076577
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_49: Land transport and transport via pipelines,Similar,0.8876027616059606
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_50: Water transport,Similar,0.8474048374244891
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_51: Air transport,Similar,0.7421763136390932
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_52: Warehousing and support activities for transportation,Similar,0.854563339023801
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_53: Postal and courier activities,Similar,0.742715283852355
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_55T56: Accommodation and food service activities,Similar,0.7311017983893013
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.8163888552413643
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_61: Telecommunications,Similar,0.7412704330602576
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_62T63: IT and other information services,Similar,0.7355313446743195
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_64T66: Financial and insurance activities,Similar,0.7876115009228124
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_69T75: Professional, scientific and technical activities",Similar,0.768036534536437
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_77T82: Administrative and support services,Similar,0.7641254927114992
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_84: Public administration and defence; compulsory social security,Similar,0.8378407527786047
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_85: Education,Similar,0.7262035992866849
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7395277462518814
+TTL_45T47: Wholesale and retail trade; repair of motor vehicles,TTL_94T96: Other service activities,Similar,0.7417327846498702
+TTL_49: Land transport and transport via pipelines,"TTL_01T02: Agriculture, hunting, forestry",Similar,0.7274051669256891
+TTL_49: Land transport and transport via pipelines,TTL_09: Mining support service activities,Similar,0.7018035982914489
+TTL_49: Land transport and transport via pipelines,"TTL_10T12: Food products, beverages and tobacco",Similar,0.7634448437097282
+TTL_49: Land transport and transport via pipelines,TTL_16: Wood and products of wood and cork,Similar,0.7393391403395638
+TTL_49: Land transport and transport via pipelines,TTL_17T18: Paper products and printing,Similar,0.7059561812589056
+TTL_49: Land transport and transport via pipelines,TTL_19: Coke and refined petroleum products,Similar,0.7825676085585573
+TTL_49: Land transport and transport via pipelines,TTL_20: Chemical and chemical products,Similar,0.7496133971675577
+TTL_49: Land transport and transport via pipelines,TTL_22: Rubber and plastics products,Similar,0.7589894569395544
+TTL_49: Land transport and transport via pipelines,TTL_24: Basic metals,Similar,0.8019151997497648
+TTL_49: Land transport and transport via pipelines,TTL_25: Fabricated metal products,Similar,0.8504203038374387
+TTL_49: Land transport and transport via pipelines,"TTL_26: Computer, electronic and optical equipment",Similar,0.802919983397483
+TTL_49: Land transport and transport via pipelines,TTL_27: Electrical equipment,Similar,0.8004582371244029
+TTL_49: Land transport and transport via pipelines,"TTL_28: Machinery and equipment, nec",Similar,0.8317417345589493
+TTL_49: Land transport and transport via pipelines,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.81687664472282
+TTL_49: Land transport and transport via pipelines,TTL_30: Other transport equipment,Similar,0.6996329194518099
+TTL_49: Land transport and transport via pipelines,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7105216312440049
+TTL_49: Land transport and transport via pipelines,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.8057800956125284
+TTL_49: Land transport and transport via pipelines,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7459439950774459
+TTL_49: Land transport and transport via pipelines,TTL_41T43: Construction,Similar,0.7292465888053445
+TTL_49: Land transport and transport via pipelines,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.8876027616059606
+TTL_49: Land transport and transport via pipelines,TTL_50: Water transport,Similar,0.90210234164016
+TTL_49: Land transport and transport via pipelines,TTL_51: Air transport,Similar,0.7303004100662784
+TTL_49: Land transport and transport via pipelines,TTL_52: Warehousing and support activities for transportation,Similar,0.8474896025263826
+TTL_49: Land transport and transport via pipelines,TTL_53: Postal and courier activities,Similar,0.7236965378803606
+TTL_49: Land transport and transport via pipelines,TTL_55T56: Accommodation and food service activities,Similar,0.71442575051428
+TTL_49: Land transport and transport via pipelines,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7883605703353744
+TTL_49: Land transport and transport via pipelines,TTL_61: Telecommunications,Similar,0.7247913438124173
+TTL_49: Land transport and transport via pipelines,TTL_62T63: IT and other information services,Similar,0.7313358214840698
+TTL_49: Land transport and transport via pipelines,TTL_64T66: Financial and insurance activities,Similar,0.7599383477424406
+TTL_49: Land transport and transport via pipelines,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7505777659064445
+TTL_49: Land transport and transport via pipelines,TTL_77T82: Administrative and support services,Similar,0.744006627027032
+TTL_49: Land transport and transport via pipelines,TTL_84: Public administration and defence; compulsory social security,Similar,0.8261032851010172
+TTL_49: Land transport and transport via pipelines,TTL_85: Education,Similar,0.7039022403277294
+TTL_49: Land transport and transport via pipelines,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7230910392190407
+TTL_49: Land transport and transport via pipelines,TTL_94T96: Other service activities,Similar,0.730731679517561
+TTL_50: Water transport,"TTL_01T02: Agriculture, hunting, forestry",Similar,0.6992726490857636
+TTL_50: Water transport,TTL_09: Mining support service activities,Similar,0.7201689767781053
+TTL_50: Water transport,"TTL_10T12: Food products, beverages and tobacco",Similar,0.7301471495025763
+TTL_50: Water transport,TTL_16: Wood and products of wood and cork,Similar,0.7381245087953611
+TTL_50: Water transport,TTL_17T18: Paper products and printing,Similar,0.69767681716435
+TTL_50: Water transport,TTL_19: Coke and refined petroleum products,Similar,0.7695341739257754
+TTL_50: Water transport,TTL_20: Chemical and chemical products,Similar,0.7345680627760738
+TTL_50: Water transport,TTL_22: Rubber and plastics products,Similar,0.7471129555374486
+TTL_50: Water transport,TTL_24: Basic metals,Similar,0.8126354498413368
+TTL_50: Water transport,TTL_25: Fabricated metal products,Similar,0.8771040563925618
+TTL_50: Water transport,"TTL_26: Computer, electronic and optical equipment",Similar,0.7896454454597839
+TTL_50: Water transport,TTL_27: Electrical equipment,Similar,0.8222061738712245
+TTL_50: Water transport,"TTL_28: Machinery and equipment, nec",Similar,0.8209502419382042
+TTL_50: Water transport,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.8109668822837376
+TTL_50: Water transport,TTL_30: Other transport equipment,Similar,0.6921592059904411
+TTL_50: Water transport,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7072611454602513
+TTL_50: Water transport,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7902488908189352
+TTL_50: Water transport,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7490148334243618
+TTL_50: Water transport,TTL_41T43: Construction,Similar,0.7784544515958469
+TTL_50: Water transport,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.8474048374244891
+TTL_50: Water transport,TTL_49: Land transport and transport via pipelines,Similar,0.90210234164016
+TTL_50: Water transport,TTL_51: Air transport,Similar,0.7384899344062249
+TTL_50: Water transport,TTL_52: Warehousing and support activities for transportation,Similar,0.8466113380815492
+TTL_50: Water transport,TTL_53: Postal and courier activities,Similar,0.7221386388202764
+TTL_50: Water transport,TTL_55T56: Accommodation and food service activities,Similar,0.7276058018158642
+TTL_50: Water transport,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7749722786045528
+TTL_50: Water transport,TTL_61: Telecommunications,Similar,0.7261894054095707
+TTL_50: Water transport,TTL_62T63: IT and other information services,Similar,0.7463932923331235
+TTL_50: Water transport,TTL_64T66: Financial and insurance activities,Similar,0.7536771259284982
+TTL_50: Water transport,TTL_68: Real estate activities,Similar,0.6919997207496259
+TTL_50: Water transport,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7443069478841093
+TTL_50: Water transport,TTL_77T82: Administrative and support services,Similar,0.7372576081019308
+TTL_50: Water transport,TTL_84: Public administration and defence; compulsory social security,Similar,0.8182305156737644
+TTL_50: Water transport,TTL_85: Education,Similar,0.701178932652067
+TTL_50: Water transport,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7200831039907603
+TTL_50: Water transport,TTL_94T96: Other service activities,Similar,0.7292011053719496
+TTL_51: Air transport,"TTL_10T12: Food products, beverages and tobacco",Similar,0.684197838286405
+TTL_51: Air transport,TTL_16: Wood and products of wood and cork,Similar,0.7011240089075583
+TTL_51: Air transport,TTL_17T18: Paper products and printing,Similar,0.6967680043460368
+TTL_51: Air transport,TTL_19: Coke and refined petroleum products,Similar,0.730244066466381
+TTL_51: Air transport,TTL_20: Chemical and chemical products,Similar,0.6813815511229371
+TTL_51: Air transport,TTL_22: Rubber and plastics products,Similar,0.6887179463456418
+TTL_51: Air transport,TTL_24: Basic metals,Similar,0.690791506653136
+TTL_51: Air transport,TTL_25: Fabricated metal products,Similar,0.7173535962594705
+TTL_51: Air transport,"TTL_26: Computer, electronic and optical equipment",Similar,0.7256023868908569
+TTL_51: Air transport,TTL_27: Electrical equipment,Similar,0.7150506173949547
+TTL_51: Air transport,"TTL_28: Machinery and equipment, nec",Similar,0.7230759595918648
+TTL_51: Air transport,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7175928067002902
+TTL_51: Air transport,TTL_30: Other transport equipment,Similar,0.6797038781536094
+TTL_51: Air transport,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6671380291546228
+TTL_51: Air transport,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.766712712478098
+TTL_51: Air transport,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7985995168124082
+TTL_51: Air transport,TTL_41T43: Construction,Similar,0.6764232557292988
+TTL_51: Air transport,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7421763136390932
+TTL_51: Air transport,TTL_49: Land transport and transport via pipelines,Similar,0.7303004100662784
+TTL_51: Air transport,TTL_50: Water transport,Similar,0.7384899344062249
+TTL_51: Air transport,TTL_52: Warehousing and support activities for transportation,Similar,0.7630773372354207
+TTL_51: Air transport,TTL_53: Postal and courier activities,Similar,0.7215829777105386
+TTL_51: Air transport,TTL_55T56: Accommodation and food service activities,Similar,0.765784484968173
+TTL_51: Air transport,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7639931911064205
+TTL_51: Air transport,TTL_61: Telecommunications,Similar,0.715840253152752
+TTL_51: Air transport,TTL_62T63: IT and other information services,Similar,0.7272917202983642
+TTL_51: Air transport,TTL_64T66: Financial and insurance activities,Similar,0.8065153500933402
+TTL_51: Air transport,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7478227199269026
+TTL_51: Air transport,TTL_77T82: Administrative and support services,Similar,0.7585682578364185
+TTL_51: Air transport,TTL_84: Public administration and defence; compulsory social security,Similar,0.7695577480331394
+TTL_51: Air transport,TTL_85: Education,Similar,0.7818128121600085
+TTL_51: Air transport,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7494380707417271
+TTL_51: Air transport,TTL_94T96: Other service activities,Similar,0.709288628069699
+TTL_52: Warehousing and support activities for transportation,"TTL_01T02: Agriculture, hunting, forestry",Similar,0.6886446066636038
+TTL_52: Warehousing and support activities for transportation,TTL_09: Mining support service activities,Similar,0.7007721552585884
+TTL_52: Warehousing and support activities for transportation,"TTL_10T12: Food products, beverages and tobacco",Similar,0.7256249208678653
+TTL_52: Warehousing and support activities for transportation,TTL_16: Wood and products of wood and cork,Similar,0.7584828458825819
+TTL_52: Warehousing and support activities for transportation,TTL_17T18: Paper products and printing,Similar,0.7134201639886326
+TTL_52: Warehousing and support activities for transportation,TTL_19: Coke and refined petroleum products,Similar,0.7916773541685618
+TTL_52: Warehousing and support activities for transportation,TTL_20: Chemical and chemical products,Similar,0.7326683409154303
+TTL_52: Warehousing and support activities for transportation,TTL_22: Rubber and plastics products,Similar,0.7419843024645383
+TTL_52: Warehousing and support activities for transportation,TTL_24: Basic metals,Similar,0.767654981240505
+TTL_52: Warehousing and support activities for transportation,TTL_25: Fabricated metal products,Similar,0.8127361993014176
+TTL_52: Warehousing and support activities for transportation,"TTL_26: Computer, electronic and optical equipment",Similar,0.7926182759495124
+TTL_52: Warehousing and support activities for transportation,TTL_27: Electrical equipment,Similar,0.786929472816024
+TTL_52: Warehousing and support activities for transportation,"TTL_28: Machinery and equipment, nec",Similar,0.8046117541629778
+TTL_52: Warehousing and support activities for transportation,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7951753963337915
+TTL_52: Warehousing and support activities for transportation,TTL_30: Other transport equipment,Similar,0.705637819591919
+TTL_52: Warehousing and support activities for transportation,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7061051380506753
+TTL_52: Warehousing and support activities for transportation,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.8261894979378503
+TTL_52: Warehousing and support activities for transportation,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7759502864263997
+TTL_52: Warehousing and support activities for transportation,TTL_41T43: Construction,Similar,0.7281929121231047
+TTL_52: Warehousing and support activities for transportation,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.854563339023801
+TTL_52: Warehousing and support activities for transportation,TTL_49: Land transport and transport via pipelines,Similar,0.8474896025263826
+TTL_52: Warehousing and support activities for transportation,TTL_50: Water transport,Similar,0.8466113380815492
+TTL_52: Warehousing and support activities for transportation,TTL_51: Air transport,Similar,0.7630773372354207
+TTL_52: Warehousing and support activities for transportation,TTL_53: Postal and courier activities,Similar,0.7408650551427948
+TTL_52: Warehousing and support activities for transportation,TTL_55T56: Accommodation and food service activities,Similar,0.7771483420712
+TTL_52: Warehousing and support activities for transportation,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.8026321241619396
+TTL_52: Warehousing and support activities for transportation,TTL_61: Telecommunications,Similar,0.7386972673277856
+TTL_52: Warehousing and support activities for transportation,TTL_62T63: IT and other information services,Similar,0.7449821830648903
+TTL_52: Warehousing and support activities for transportation,TTL_64T66: Financial and insurance activities,Similar,0.8019578887702027
+TTL_52: Warehousing and support activities for transportation,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7702380608113212
+TTL_52: Warehousing and support activities for transportation,TTL_77T82: Administrative and support services,Similar,0.7653513339622834
+TTL_52: Warehousing and support activities for transportation,TTL_84: Public administration and defence; compulsory social security,Similar,0.8527214475992585
+TTL_52: Warehousing and support activities for transportation,TTL_85: Education,Similar,0.7499935316792951
+TTL_52: Warehousing and support activities for transportation,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7378188779382749
+TTL_52: Warehousing and support activities for transportation,TTL_94T96: Other service activities,Similar,0.7490040758802217
+TTL_53: Postal and courier activities,TTL_16: Wood and products of wood and cork,Similar,0.696880301668741
+TTL_53: Postal and courier activities,TTL_17T18: Paper products and printing,Similar,0.7150154577541716
+TTL_53: Postal and courier activities,TTL_19: Coke and refined petroleum products,Similar,0.8256970125351247
+TTL_53: Postal and courier activities,TTL_20: Chemical and chemical products,Similar,0.6796257269909807
+TTL_53: Postal and courier activities,TTL_22: Rubber and plastics products,Similar,0.694674354610703
+TTL_53: Postal and courier activities,TTL_24: Basic metals,Similar,0.6860622702903884
+TTL_53: Postal and courier activities,TTL_25: Fabricated metal products,Similar,0.7130356507969073
+TTL_53: Postal and courier activities,"TTL_26: Computer, electronic and optical equipment",Similar,0.7544437328002332
+TTL_53: Postal and courier activities,TTL_27: Electrical equipment,Similar,0.7243545050913442
+TTL_53: Postal and courier activities,"TTL_28: Machinery and equipment, nec",Similar,0.7228776622544872
+TTL_53: Postal and courier activities,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7202791161813635
+TTL_53: Postal and courier activities,TTL_30: Other transport equipment,Similar,0.6801395799922644
+TTL_53: Postal and courier activities,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6700078808940116
+TTL_53: Postal and courier activities,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.777502212026232
+TTL_53: Postal and courier activities,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7964687943222445
+TTL_53: Postal and courier activities,TTL_41T43: Construction,Similar,0.6698000034481132
+TTL_53: Postal and courier activities,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.742715283852355
+TTL_53: Postal and courier activities,TTL_49: Land transport and transport via pipelines,Similar,0.7236965378803606
+TTL_53: Postal and courier activities,TTL_50: Water transport,Similar,0.7221386388202764
+TTL_53: Postal and courier activities,TTL_51: Air transport,Similar,0.7215829777105386
+TTL_53: Postal and courier activities,TTL_52: Warehousing and support activities for transportation,Similar,0.7408650551427948
+TTL_53: Postal and courier activities,TTL_55T56: Accommodation and food service activities,Similar,0.7373635468025207
+TTL_53: Postal and courier activities,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7791245978227974
+TTL_53: Postal and courier activities,TTL_61: Telecommunications,Similar,0.9348023093782627
+TTL_53: Postal and courier activities,TTL_62T63: IT and other information services,Similar,0.7266674158215259
+TTL_53: Postal and courier activities,TTL_64T66: Financial and insurance activities,Similar,0.7624058196398488
+TTL_53: Postal and courier activities,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7561411583681051
+TTL_53: Postal and courier activities,TTL_77T82: Administrative and support services,Similar,0.7722965858168801
+TTL_53: Postal and courier activities,TTL_84: Public administration and defence; compulsory social security,Similar,0.7681796240270591
+TTL_53: Postal and courier activities,TTL_85: Education,Similar,0.7327178038636756
+TTL_53: Postal and courier activities,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7354043092928236
+TTL_53: Postal and courier activities,TTL_94T96: Other service activities,Similar,0.7129356095580255
+TTL_55T56: Accommodation and food service activities,TTL_16: Wood and products of wood and cork,Similar,0.701177568842428
+TTL_55T56: Accommodation and food service activities,TTL_17T18: Paper products and printing,Similar,0.6806396800094888
+TTL_55T56: Accommodation and food service activities,TTL_19: Coke and refined petroleum products,Similar,0.7386066461862507
+TTL_55T56: Accommodation and food service activities,TTL_22: Rubber and plastics products,Similar,0.6750593201014603
+TTL_55T56: Accommodation and food service activities,TTL_24: Basic metals,Similar,0.6837242004073295
+TTL_55T56: Accommodation and food service activities,TTL_25: Fabricated metal products,Similar,0.7130418676359344
+TTL_55T56: Accommodation and food service activities,"TTL_26: Computer, electronic and optical equipment",Similar,0.7090481287587033
+TTL_55T56: Accommodation and food service activities,TTL_27: Electrical equipment,Similar,0.716142615007608
+TTL_55T56: Accommodation and food service activities,"TTL_28: Machinery and equipment, nec",Similar,0.7093335620468216
+TTL_55T56: Accommodation and food service activities,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7074371305086834
+TTL_55T56: Accommodation and food service activities,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.767980102322038
+TTL_55T56: Accommodation and food service activities,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7701977739410708
+TTL_55T56: Accommodation and food service activities,TTL_41T43: Construction,Similar,0.6934208310660959
+TTL_55T56: Accommodation and food service activities,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7311017983893013
+TTL_55T56: Accommodation and food service activities,TTL_49: Land transport and transport via pipelines,Similar,0.71442575051428
+TTL_55T56: Accommodation and food service activities,TTL_50: Water transport,Similar,0.7276058018158642
+TTL_55T56: Accommodation and food service activities,TTL_51: Air transport,Similar,0.765784484968173
+TTL_55T56: Accommodation and food service activities,TTL_52: Warehousing and support activities for transportation,Similar,0.7771483420712
+TTL_55T56: Accommodation and food service activities,TTL_53: Postal and courier activities,Similar,0.7373635468025207
+TTL_55T56: Accommodation and food service activities,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7395481831922829
+TTL_55T56: Accommodation and food service activities,TTL_61: Telecommunications,Similar,0.7352774507152061
+TTL_55T56: Accommodation and food service activities,TTL_62T63: IT and other information services,Similar,0.7081669801156055
+TTL_55T56: Accommodation and food service activities,TTL_64T66: Financial and insurance activities,Similar,0.8039962233276666
+TTL_55T56: Accommodation and food service activities,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7301699414232883
+TTL_55T56: Accommodation and food service activities,TTL_77T82: Administrative and support services,Similar,0.7262475330122873
+TTL_55T56: Accommodation and food service activities,TTL_84: Public administration and defence; compulsory social security,Similar,0.7536220561553109
+TTL_55T56: Accommodation and food service activities,TTL_85: Education,Similar,0.7431031437080788
+TTL_55T56: Accommodation and food service activities,"TTL_90T93: Arts, entertainment and recreation",Similar,0.6952551294680811
+TTL_55T56: Accommodation and food service activities,TTL_94T96: Other service activities,Similar,0.6921508780584487
+"TTL_58T60: Publishing, audiovisual and broadcasting activities","TTL_01T02: Agriculture, hunting, forestry",Similar,0.6708747466635158
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_09: Mining support service activities,Similar,0.6771794423943662
+"TTL_58T60: Publishing, audiovisual and broadcasting activities","TTL_10T12: Food products, beverages and tobacco",Similar,0.7076664119372826
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_16: Wood and products of wood and cork,Similar,0.7435810571295551
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_17T18: Paper products and printing,Similar,0.8015706130603559
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_19: Coke and refined petroleum products,Similar,0.8198940368070974
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_20: Chemical and chemical products,Similar,0.7351013651758351
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_22: Rubber and plastics products,Similar,0.7577447124419772
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_24: Basic metals,Similar,0.7342014473964764
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_25: Fabricated metal products,Similar,0.7684095645220685
+"TTL_58T60: Publishing, audiovisual and broadcasting activities","TTL_26: Computer, electronic and optical equipment",Similar,0.8002769939921737
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_27: Electrical equipment,Similar,0.7669582531937933
+"TTL_58T60: Publishing, audiovisual and broadcasting activities","TTL_28: Machinery and equipment, nec",Similar,0.7953897670241743
+"TTL_58T60: Publishing, audiovisual and broadcasting activities","TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7885329202752474
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_30: Other transport equipment,Similar,0.7208504103585236
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7053593269229079
+"TTL_58T60: Publishing, audiovisual and broadcasting activities","TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.8382336073720014
+"TTL_58T60: Publishing, audiovisual and broadcasting activities","TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.8021749329906979
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_41T43: Construction,Similar,0.6868071522929566
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.8163888552413643
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_49: Land transport and transport via pipelines,Similar,0.7883605703353744
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_50: Water transport,Similar,0.7749722786045528
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_51: Air transport,Similar,0.7639931911064205
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_52: Warehousing and support activities for transportation,Similar,0.8026321241619396
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_53: Postal and courier activities,Similar,0.7791245978227974
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_55T56: Accommodation and food service activities,Similar,0.7395481831922829
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_61: Telecommunications,Similar,0.7778284211755203
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_62T63: IT and other information services,Similar,0.7491960577265903
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_64T66: Financial and insurance activities,Similar,0.8149658166186092
+"TTL_58T60: Publishing, audiovisual and broadcasting activities","TTL_69T75: Professional, scientific and technical activities",Similar,0.8099913826337536
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_77T82: Administrative and support services,Similar,0.817180888134005
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_84: Public administration and defence; compulsory social security,Similar,0.844603893264067
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_85: Education,Similar,0.7729927993886865
+"TTL_58T60: Publishing, audiovisual and broadcasting activities","TTL_90T93: Arts, entertainment and recreation",Similar,0.8042417502331047
+"TTL_58T60: Publishing, audiovisual and broadcasting activities",TTL_94T96: Other service activities,Similar,0.755676488594017
+TTL_61: Telecommunications,TTL_16: Wood and products of wood and cork,Similar,0.6940771188205868
+TTL_61: Telecommunications,TTL_17T18: Paper products and printing,Similar,0.7129236734903205
+TTL_61: Telecommunications,TTL_19: Coke and refined petroleum products,Similar,0.8301062639516468
+TTL_61: Telecommunications,TTL_20: Chemical and chemical products,Similar,0.6776103938996552
+TTL_61: Telecommunications,TTL_22: Rubber and plastics products,Similar,0.6944052901983919
+TTL_61: Telecommunications,TTL_24: Basic metals,Similar,0.6891187990053735
+TTL_61: Telecommunications,TTL_25: Fabricated metal products,Similar,0.7173446596502713
+TTL_61: Telecommunications,"TTL_26: Computer, electronic and optical equipment",Similar,0.7493494407230186
+TTL_61: Telecommunications,TTL_27: Electrical equipment,Similar,0.7278526296240073
+TTL_61: Telecommunications,"TTL_28: Machinery and equipment, nec",Similar,0.7228013374129627
+TTL_61: Telecommunications,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7211299729402199
+TTL_61: Telecommunications,TTL_30: Other transport equipment,Similar,0.6779360346622577
+TTL_61: Telecommunications,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6695881070603669
+TTL_61: Telecommunications,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7708440425942308
+TTL_61: Telecommunications,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7972054850693199
+TTL_61: Telecommunications,TTL_41T43: Construction,Similar,0.678357802423706
+TTL_61: Telecommunications,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7412704330602576
+TTL_61: Telecommunications,TTL_49: Land transport and transport via pipelines,Similar,0.7247913438124173
+TTL_61: Telecommunications,TTL_50: Water transport,Similar,0.7261894054095707
+TTL_61: Telecommunications,TTL_51: Air transport,Similar,0.715840253152752
+TTL_61: Telecommunications,TTL_52: Warehousing and support activities for transportation,Similar,0.7386972673277856
+TTL_61: Telecommunications,TTL_53: Postal and courier activities,Similar,0.9348023093782627
+TTL_61: Telecommunications,TTL_55T56: Accommodation and food service activities,Similar,0.7352774507152061
+TTL_61: Telecommunications,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7778284211755203
+TTL_61: Telecommunications,TTL_62T63: IT and other information services,Similar,0.7292576497657554
+TTL_61: Telecommunications,TTL_64T66: Financial and insurance activities,Similar,0.757569394555804
+TTL_61: Telecommunications,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7606136142460637
+TTL_61: Telecommunications,TTL_77T82: Administrative and support services,Similar,0.7757393622617126
+TTL_61: Telecommunications,TTL_84: Public administration and defence; compulsory social security,Similar,0.7674237600107325
+TTL_61: Telecommunications,TTL_85: Education,Similar,0.7253278035122054
+TTL_61: Telecommunications,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7349563965768392
+TTL_61: Telecommunications,TTL_94T96: Other service activities,Similar,0.7113203402840429
+TTL_62T63: IT and other information services,TTL_09: Mining support service activities,Similar,0.6711393185345075
+TTL_62T63: IT and other information services,TTL_16: Wood and products of wood and cork,Similar,0.7002545140293043
+TTL_62T63: IT and other information services,TTL_17T18: Paper products and printing,Similar,0.689420121291375
+TTL_62T63: IT and other information services,TTL_19: Coke and refined petroleum products,Similar,0.7417359874022161
+TTL_62T63: IT and other information services,TTL_20: Chemical and chemical products,Similar,0.6790214627559503
+TTL_62T63: IT and other information services,TTL_22: Rubber and plastics products,Similar,0.6888326779021493
+TTL_62T63: IT and other information services,TTL_24: Basic metals,Similar,0.7059225390364653
+TTL_62T63: IT and other information services,TTL_25: Fabricated metal products,Similar,0.736158977749262
+TTL_62T63: IT and other information services,"TTL_26: Computer, electronic and optical equipment",Similar,0.7257050817651399
+TTL_62T63: IT and other information services,TTL_27: Electrical equipment,Similar,0.7330350092720503
+TTL_62T63: IT and other information services,"TTL_28: Machinery and equipment, nec",Similar,0.728419759792338
+TTL_62T63: IT and other information services,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7235291201828783
+TTL_62T63: IT and other information services,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6692592840485596
+TTL_62T63: IT and other information services,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7414914120388197
+TTL_62T63: IT and other information services,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.737614178467952
+TTL_62T63: IT and other information services,TTL_41T43: Construction,Similar,0.7476770038903058
+TTL_62T63: IT and other information services,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7355313446743195
+TTL_62T63: IT and other information services,TTL_49: Land transport and transport via pipelines,Similar,0.7313358214840698
+TTL_62T63: IT and other information services,TTL_50: Water transport,Similar,0.7463932923331235
+TTL_62T63: IT and other information services,TTL_51: Air transport,Similar,0.7272917202983642
+TTL_62T63: IT and other information services,TTL_52: Warehousing and support activities for transportation,Similar,0.7449821830648903
+TTL_62T63: IT and other information services,TTL_53: Postal and courier activities,Similar,0.7266674158215259
+TTL_62T63: IT and other information services,TTL_55T56: Accommodation and food service activities,Similar,0.7081669801156055
+TTL_62T63: IT and other information services,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7491960577265903
+TTL_62T63: IT and other information services,TTL_61: Telecommunications,Similar,0.7292576497657554
+TTL_62T63: IT and other information services,TTL_64T66: Financial and insurance activities,Similar,0.7697858211910671
+TTL_62T63: IT and other information services,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7556954804865084
+TTL_62T63: IT and other information services,TTL_77T82: Administrative and support services,Similar,0.7666122378253759
+TTL_62T63: IT and other information services,TTL_84: Public administration and defence; compulsory social security,Similar,0.771043610744214
+TTL_62T63: IT and other information services,TTL_85: Education,Similar,0.7275152846343761
+TTL_62T63: IT and other information services,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7275318570086379
+TTL_62T63: IT and other information services,TTL_94T96: Other service activities,Similar,0.7167554875073483
+TTL_64T66: Financial and insurance activities,"TTL_10T12: Food products, beverages and tobacco",Similar,0.6967554794582888
+TTL_64T66: Financial and insurance activities,TTL_16: Wood and products of wood and cork,Similar,0.7326866620231405
+TTL_64T66: Financial and insurance activities,TTL_17T18: Paper products and printing,Similar,0.7236401851283237
+TTL_64T66: Financial and insurance activities,TTL_19: Coke and refined petroleum products,Similar,0.7817589048926779
+TTL_64T66: Financial and insurance activities,TTL_20: Chemical and chemical products,Similar,0.7102641710194275
+TTL_64T66: Financial and insurance activities,TTL_22: Rubber and plastics products,Similar,0.7121737940107943
+TTL_64T66: Financial and insurance activities,TTL_24: Basic metals,Similar,0.7046797819110816
+TTL_64T66: Financial and insurance activities,TTL_25: Fabricated metal products,Similar,0.7382862743884047
+TTL_64T66: Financial and insurance activities,"TTL_26: Computer, electronic and optical equipment",Similar,0.757432440906062
+TTL_64T66: Financial and insurance activities,TTL_27: Electrical equipment,Similar,0.7369212135951945
+TTL_64T66: Financial and insurance activities,"TTL_28: Machinery and equipment, nec",Similar,0.7560333701511941
+TTL_64T66: Financial and insurance activities,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7457286903356173
+TTL_64T66: Financial and insurance activities,TTL_30: Other transport equipment,Similar,0.6931213535501002
+TTL_64T66: Financial and insurance activities,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6879423393894408
+TTL_64T66: Financial and insurance activities,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.8291753937562981
+TTL_64T66: Financial and insurance activities,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.79025836473334
+TTL_64T66: Financial and insurance activities,TTL_41T43: Construction,Similar,0.6849709089258925
+TTL_64T66: Financial and insurance activities,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7876115009228124
+TTL_64T66: Financial and insurance activities,TTL_49: Land transport and transport via pipelines,Similar,0.7599383477424406
+TTL_64T66: Financial and insurance activities,TTL_50: Water transport,Similar,0.7536771259284982
+TTL_64T66: Financial and insurance activities,TTL_51: Air transport,Similar,0.8065153500933402
+TTL_64T66: Financial and insurance activities,TTL_52: Warehousing and support activities for transportation,Similar,0.8019578887702027
+TTL_64T66: Financial and insurance activities,TTL_53: Postal and courier activities,Similar,0.7624058196398488
+TTL_64T66: Financial and insurance activities,TTL_55T56: Accommodation and food service activities,Similar,0.8039962233276666
+TTL_64T66: Financial and insurance activities,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.8149658166186092
+TTL_64T66: Financial and insurance activities,TTL_61: Telecommunications,Similar,0.757569394555804
+TTL_64T66: Financial and insurance activities,TTL_62T63: IT and other information services,Similar,0.7697858211910671
+TTL_64T66: Financial and insurance activities,"TTL_69T75: Professional, scientific and technical activities",Similar,0.8221516546860335
+TTL_64T66: Financial and insurance activities,TTL_77T82: Administrative and support services,Similar,0.8313410157053296
+TTL_64T66: Financial and insurance activities,TTL_84: Public administration and defence; compulsory social security,Similar,0.8289030476439571
+TTL_64T66: Financial and insurance activities,TTL_85: Education,Similar,0.822651923463509
+TTL_64T66: Financial and insurance activities,TTL_86T88: Human health and social work activities,Similar,0.6679264143694483
+TTL_64T66: Financial and insurance activities,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7649305301762466
+TTL_64T66: Financial and insurance activities,TTL_94T96: Other service activities,Similar,0.7360068866397461
+TTL_68: Real estate activities,TTL_23: Other non-metallic mineral products,Similar,0.7427255196470666
+TTL_68: Real estate activities,TTL_25: Fabricated metal products,Similar,0.6871955532652859
+TTL_68: Real estate activities,TTL_27: Electrical equipment,Similar,0.6836766006582129
+TTL_68: Real estate activities,TTL_41T43: Construction,Similar,0.7621546781441795
+TTL_68: Real estate activities,TTL_50: Water transport,Similar,0.6919997207496259
+"TTL_69T75: Professional, scientific and technical activities",TTL_09: Mining support service activities,Similar,0.671402829803245
+"TTL_69T75: Professional, scientific and technical activities","TTL_10T12: Food products, beverages and tobacco",Similar,0.6804286158246737
+"TTL_69T75: Professional, scientific and technical activities",TTL_16: Wood and products of wood and cork,Similar,0.7193400266599073
+"TTL_69T75: Professional, scientific and technical activities",TTL_17T18: Paper products and printing,Similar,0.7204112850621157
+"TTL_69T75: Professional, scientific and technical activities",TTL_19: Coke and refined petroleum products,Similar,0.7694289150530886
+"TTL_69T75: Professional, scientific and technical activities",TTL_20: Chemical and chemical products,Similar,0.7045830004820056
+"TTL_69T75: Professional, scientific and technical activities",TTL_22: Rubber and plastics products,Similar,0.7179516626157005
+"TTL_69T75: Professional, scientific and technical activities",TTL_24: Basic metals,Similar,0.7161640498387806
+"TTL_69T75: Professional, scientific and technical activities",TTL_25: Fabricated metal products,Similar,0.7416689373834086
+"TTL_69T75: Professional, scientific and technical activities","TTL_26: Computer, electronic and optical equipment",Similar,0.7755416602608923
+"TTL_69T75: Professional, scientific and technical activities",TTL_27: Electrical equipment,Similar,0.7470943044710194
+"TTL_69T75: Professional, scientific and technical activities","TTL_28: Machinery and equipment, nec",Similar,0.7625199216390333
+"TTL_69T75: Professional, scientific and technical activities","TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7510060312832565
+"TTL_69T75: Professional, scientific and technical activities",TTL_30: Other transport equipment,Similar,0.6933772492931093
+"TTL_69T75: Professional, scientific and technical activities",TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6838306356634412
+"TTL_69T75: Professional, scientific and technical activities","TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7936767359529353
+"TTL_69T75: Professional, scientific and technical activities","TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7719049480890069
+"TTL_69T75: Professional, scientific and technical activities",TTL_41T43: Construction,Similar,0.676700851558141
+"TTL_69T75: Professional, scientific and technical activities",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.768036534536437
+"TTL_69T75: Professional, scientific and technical activities",TTL_49: Land transport and transport via pipelines,Similar,0.7505777659064445
+"TTL_69T75: Professional, scientific and technical activities",TTL_50: Water transport,Similar,0.7443069478841093
+"TTL_69T75: Professional, scientific and technical activities",TTL_51: Air transport,Similar,0.7478227199269026
+"TTL_69T75: Professional, scientific and technical activities",TTL_52: Warehousing and support activities for transportation,Similar,0.7702380608113212
+"TTL_69T75: Professional, scientific and technical activities",TTL_53: Postal and courier activities,Similar,0.7561411583681051
+"TTL_69T75: Professional, scientific and technical activities",TTL_55T56: Accommodation and food service activities,Similar,0.7301699414232883
+"TTL_69T75: Professional, scientific and technical activities","TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.8099913826337536
+"TTL_69T75: Professional, scientific and technical activities",TTL_61: Telecommunications,Similar,0.7606136142460637
+"TTL_69T75: Professional, scientific and technical activities",TTL_62T63: IT and other information services,Similar,0.7556954804865084
+"TTL_69T75: Professional, scientific and technical activities",TTL_64T66: Financial and insurance activities,Similar,0.8221516546860335
+"TTL_69T75: Professional, scientific and technical activities",TTL_77T82: Administrative and support services,Similar,0.9217532224647151
+"TTL_69T75: Professional, scientific and technical activities",TTL_84: Public administration and defence; compulsory social security,Similar,0.8445308692598362
+"TTL_69T75: Professional, scientific and technical activities",TTL_85: Education,Similar,0.7717842449770641
+"TTL_69T75: Professional, scientific and technical activities","TTL_90T93: Arts, entertainment and recreation",Similar,0.7657057456961393
+"TTL_69T75: Professional, scientific and technical activities",TTL_94T96: Other service activities,Similar,0.7471558688981857
+TTL_77T82: Administrative and support services,"TTL_10T12: Food products, beverages and tobacco",Similar,0.6789486052206791
+TTL_77T82: Administrative and support services,TTL_16: Wood and products of wood and cork,Similar,0.717698488963288
+TTL_77T82: Administrative and support services,TTL_17T18: Paper products and printing,Similar,0.7267713181253492
+TTL_77T82: Administrative and support services,TTL_19: Coke and refined petroleum products,Similar,0.7830058010562457
+TTL_77T82: Administrative and support services,TTL_20: Chemical and chemical products,Similar,0.7010212430455252
+TTL_77T82: Administrative and support services,TTL_22: Rubber and plastics products,Similar,0.7131898231863874
+TTL_77T82: Administrative and support services,TTL_24: Basic metals,Similar,0.7061451234758492
+TTL_77T82: Administrative and support services,TTL_25: Fabricated metal products,Similar,0.7320604393538929
+TTL_77T82: Administrative and support services,"TTL_26: Computer, electronic and optical equipment",Similar,0.7700339322352678
+TTL_77T82: Administrative and support services,TTL_27: Electrical equipment,Similar,0.7370316545277996
+TTL_77T82: Administrative and support services,"TTL_28: Machinery and equipment, nec",Similar,0.7523399732247787
+TTL_77T82: Administrative and support services,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7432188088022225
+TTL_77T82: Administrative and support services,TTL_30: Other transport equipment,Similar,0.6930367566715324
+TTL_77T82: Administrative and support services,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6817019900859183
+TTL_77T82: Administrative and support services,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7889853840236843
+TTL_77T82: Administrative and support services,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7783424591889918
+TTL_77T82: Administrative and support services,TTL_41T43: Construction,Similar,0.67050935313151
+TTL_77T82: Administrative and support services,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7641254927114992
+TTL_77T82: Administrative and support services,TTL_49: Land transport and transport via pipelines,Similar,0.744006627027032
+TTL_77T82: Administrative and support services,TTL_50: Water transport,Similar,0.7372576081019308
+TTL_77T82: Administrative and support services,TTL_51: Air transport,Similar,0.7585682578364185
+TTL_77T82: Administrative and support services,TTL_52: Warehousing and support activities for transportation,Similar,0.7653513339622834
+TTL_77T82: Administrative and support services,TTL_53: Postal and courier activities,Similar,0.7722965858168801
+TTL_77T82: Administrative and support services,TTL_55T56: Accommodation and food service activities,Similar,0.7262475330122873
+TTL_77T82: Administrative and support services,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.817180888134005
+TTL_77T82: Administrative and support services,TTL_61: Telecommunications,Similar,0.7757393622617126
+TTL_77T82: Administrative and support services,TTL_62T63: IT and other information services,Similar,0.7666122378253759
+TTL_77T82: Administrative and support services,TTL_64T66: Financial and insurance activities,Similar,0.8313410157053296
+TTL_77T82: Administrative and support services,"TTL_69T75: Professional, scientific and technical activities",Similar,0.9217532224647151
+TTL_77T82: Administrative and support services,TTL_84: Public administration and defence; compulsory social security,Similar,0.8388904897256005
+TTL_77T82: Administrative and support services,TTL_85: Education,Similar,0.797686195536767
+TTL_77T82: Administrative and support services,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7914283812930559
+TTL_77T82: Administrative and support services,TTL_94T96: Other service activities,Similar,0.7470777156213745
+TTL_84: Public administration and defence; compulsory social security,TTL_09: Mining support service activities,Similar,0.6998496311398048
+TTL_84: Public administration and defence; compulsory social security,"TTL_10T12: Food products, beverages and tobacco",Similar,0.7053937038811201
+TTL_84: Public administration and defence; compulsory social security,TTL_16: Wood and products of wood and cork,Similar,0.7748828892552798
+TTL_84: Public administration and defence; compulsory social security,TTL_17T18: Paper products and printing,Similar,0.7381336621371727
+TTL_84: Public administration and defence; compulsory social security,TTL_19: Coke and refined petroleum products,Similar,0.8168541096849969
+TTL_84: Public administration and defence; compulsory social security,TTL_20: Chemical and chemical products,Similar,0.7454487775692515
+TTL_84: Public administration and defence; compulsory social security,TTL_22: Rubber and plastics products,Similar,0.7523371193567323
+TTL_84: Public administration and defence; compulsory social security,TTL_24: Basic metals,Similar,0.772849246357947
+TTL_84: Public administration and defence; compulsory social security,TTL_25: Fabricated metal products,Similar,0.807142283965812
+TTL_84: Public administration and defence; compulsory social security,"TTL_26: Computer, electronic and optical equipment",Similar,0.81730164854543
+TTL_84: Public administration and defence; compulsory social security,TTL_27: Electrical equipment,Similar,0.788688412943323
+TTL_84: Public administration and defence; compulsory social security,"TTL_28: Machinery and equipment, nec",Similar,0.8140133905325133
+TTL_84: Public administration and defence; compulsory social security,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.8024176013499004
+TTL_84: Public administration and defence; compulsory social security,TTL_30: Other transport equipment,Similar,0.717210872249912
+TTL_84: Public administration and defence; compulsory social security,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.7387594060224222
+TTL_84: Public administration and defence; compulsory social security,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.8415237533542869
+TTL_84: Public administration and defence; compulsory social security,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.794711048648129
+TTL_84: Public administration and defence; compulsory social security,TTL_41T43: Construction,Similar,0.7098731510987872
+TTL_84: Public administration and defence; compulsory social security,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.8378407527786047
+TTL_84: Public administration and defence; compulsory social security,TTL_49: Land transport and transport via pipelines,Similar,0.8261032851010172
+TTL_84: Public administration and defence; compulsory social security,TTL_50: Water transport,Similar,0.8182305156737644
+TTL_84: Public administration and defence; compulsory social security,TTL_51: Air transport,Similar,0.7695577480331394
+TTL_84: Public administration and defence; compulsory social security,TTL_52: Warehousing and support activities for transportation,Similar,0.8527214475992585
+TTL_84: Public administration and defence; compulsory social security,TTL_53: Postal and courier activities,Similar,0.7681796240270591
+TTL_84: Public administration and defence; compulsory social security,TTL_55T56: Accommodation and food service activities,Similar,0.7536220561553109
+TTL_84: Public administration and defence; compulsory social security,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.844603893264067
+TTL_84: Public administration and defence; compulsory social security,TTL_61: Telecommunications,Similar,0.7674237600107325
+TTL_84: Public administration and defence; compulsory social security,TTL_62T63: IT and other information services,Similar,0.771043610744214
+TTL_84: Public administration and defence; compulsory social security,TTL_64T66: Financial and insurance activities,Similar,0.8289030476439571
+TTL_84: Public administration and defence; compulsory social security,"TTL_69T75: Professional, scientific and technical activities",Similar,0.8445308692598362
+TTL_84: Public administration and defence; compulsory social security,TTL_77T82: Administrative and support services,Similar,0.8388904897256005
+TTL_84: Public administration and defence; compulsory social security,TTL_85: Education,Similar,0.7719876343283586
+TTL_84: Public administration and defence; compulsory social security,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7749497580281092
+TTL_84: Public administration and defence; compulsory social security,TTL_94T96: Other service activities,Similar,0.7696868076827669
+TTL_85: Education,TTL_16: Wood and products of wood and cork,Similar,0.7001635978946542
+TTL_85: Education,TTL_17T18: Paper products and printing,Similar,0.7029785392690734
+TTL_85: Education,TTL_19: Coke and refined petroleum products,Similar,0.7351857492322734
+TTL_85: Education,TTL_20: Chemical and chemical products,Similar,0.6720021793101032
+TTL_85: Education,TTL_22: Rubber and plastics products,Similar,0.6764423158579314
+TTL_85: Education,TTL_24: Basic metals,Similar,0.6672552091410878
+TTL_85: Education,TTL_25: Fabricated metal products,Similar,0.6912766531147947
+TTL_85: Education,"TTL_26: Computer, electronic and optical equipment",Similar,0.7135186490279106
+TTL_85: Education,TTL_27: Electrical equipment,Similar,0.6920753383947051
+TTL_85: Education,"TTL_28: Machinery and equipment, nec",Similar,0.7059748923778498
+TTL_85: Education,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.700512163508505
+TTL_85: Education,TTL_30: Other transport equipment,Similar,0.6694572105873275
+TTL_85: Education,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7557345832432426
+TTL_85: Education,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7443369175238953
+TTL_85: Education,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7262035992866849
+TTL_85: Education,TTL_49: Land transport and transport via pipelines,Similar,0.7039022403277294
+TTL_85: Education,TTL_50: Water transport,Similar,0.701178932652067
+TTL_85: Education,TTL_51: Air transport,Similar,0.7818128121600085
+TTL_85: Education,TTL_52: Warehousing and support activities for transportation,Similar,0.7499935316792951
+TTL_85: Education,TTL_53: Postal and courier activities,Similar,0.7327178038636756
+TTL_85: Education,TTL_55T56: Accommodation and food service activities,Similar,0.7431031437080788
+TTL_85: Education,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.7729927993886865
+TTL_85: Education,TTL_61: Telecommunications,Similar,0.7253278035122054
+TTL_85: Education,TTL_62T63: IT and other information services,Similar,0.7275152846343761
+TTL_85: Education,TTL_64T66: Financial and insurance activities,Similar,0.822651923463509
+TTL_85: Education,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7717842449770641
+TTL_85: Education,TTL_77T82: Administrative and support services,Similar,0.797686195536767
+TTL_85: Education,TTL_84: Public administration and defence; compulsory social security,Similar,0.7719876343283586
+TTL_85: Education,"TTL_90T93: Arts, entertainment and recreation",Similar,0.8063963723249367
+TTL_85: Education,TTL_94T96: Other service activities,Similar,0.7083850518751095
+TTL_86T88: Human health and social work activities,"TTL_21: Pharmaceuticals, medicinal chemical and botanical products",Similar,0.8001184995748177
+TTL_86T88: Human health and social work activities,TTL_64T66: Financial and insurance activities,Similar,0.6679264143694483
+"TTL_90T93: Arts, entertainment and recreation",TTL_16: Wood and products of wood and cork,Similar,0.7007587589239697
+"TTL_90T93: Arts, entertainment and recreation",TTL_17T18: Paper products and printing,Similar,0.7208586642428423
+"TTL_90T93: Arts, entertainment and recreation",TTL_19: Coke and refined petroleum products,Similar,0.75748905726171
+"TTL_90T93: Arts, entertainment and recreation",TTL_20: Chemical and chemical products,Similar,0.6866944990005046
+"TTL_90T93: Arts, entertainment and recreation",TTL_22: Rubber and plastics products,Similar,0.6964785340280897
+"TTL_90T93: Arts, entertainment and recreation",TTL_24: Basic metals,Similar,0.6867701545579508
+"TTL_90T93: Arts, entertainment and recreation",TTL_25: Fabricated metal products,Similar,0.7119994205440704
+"TTL_90T93: Arts, entertainment and recreation","TTL_26: Computer, electronic and optical equipment",Similar,0.7301270277760995
+"TTL_90T93: Arts, entertainment and recreation",TTL_27: Electrical equipment,Similar,0.7116383577620222
+"TTL_90T93: Arts, entertainment and recreation","TTL_28: Machinery and equipment, nec",Similar,0.7247251214866383
+"TTL_90T93: Arts, entertainment and recreation","TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7195049579970862
+"TTL_90T93: Arts, entertainment and recreation",TTL_30: Other transport equipment,Similar,0.677670301805704
+"TTL_90T93: Arts, entertainment and recreation",TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6722168995148008
+"TTL_90T93: Arts, entertainment and recreation","TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7516293066052686
+"TTL_90T93: Arts, entertainment and recreation","TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7505057591674553
+"TTL_90T93: Arts, entertainment and recreation",TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7395277462518814
+"TTL_90T93: Arts, entertainment and recreation",TTL_49: Land transport and transport via pipelines,Similar,0.7230910392190407
+"TTL_90T93: Arts, entertainment and recreation",TTL_50: Water transport,Similar,0.7200831039907603
+"TTL_90T93: Arts, entertainment and recreation",TTL_51: Air transport,Similar,0.7494380707417271
+"TTL_90T93: Arts, entertainment and recreation",TTL_52: Warehousing and support activities for transportation,Similar,0.7378188779382749
+"TTL_90T93: Arts, entertainment and recreation",TTL_53: Postal and courier activities,Similar,0.7354043092928236
+"TTL_90T93: Arts, entertainment and recreation",TTL_55T56: Accommodation and food service activities,Similar,0.6952551294680811
+"TTL_90T93: Arts, entertainment and recreation","TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.8042417502331047
+"TTL_90T93: Arts, entertainment and recreation",TTL_61: Telecommunications,Similar,0.7349563965768392
+"TTL_90T93: Arts, entertainment and recreation",TTL_62T63: IT and other information services,Similar,0.7275318570086379
+"TTL_90T93: Arts, entertainment and recreation",TTL_64T66: Financial and insurance activities,Similar,0.7649305301762466
+"TTL_90T93: Arts, entertainment and recreation","TTL_69T75: Professional, scientific and technical activities",Similar,0.7657057456961393
+"TTL_90T93: Arts, entertainment and recreation",TTL_77T82: Administrative and support services,Similar,0.7914283812930559
+"TTL_90T93: Arts, entertainment and recreation",TTL_84: Public administration and defence; compulsory social security,Similar,0.7749497580281092
+"TTL_90T93: Arts, entertainment and recreation",TTL_85: Education,Similar,0.8063963723249367
+"TTL_90T93: Arts, entertainment and recreation",TTL_94T96: Other service activities,Similar,0.7226079713142114
+TTL_94T96: Other service activities,TTL_09: Mining support service activities,Similar,0.7965972146311335
+TTL_94T96: Other service activities,TTL_16: Wood and products of wood and cork,Similar,0.7230615386343592
+TTL_94T96: Other service activities,TTL_17T18: Paper products and printing,Similar,0.6936821674495895
+TTL_94T96: Other service activities,TTL_19: Coke and refined petroleum products,Similar,0.7402106853770615
+TTL_94T96: Other service activities,TTL_20: Chemical and chemical products,Similar,0.6991377502915918
+TTL_94T96: Other service activities,TTL_22: Rubber and plastics products,Similar,0.69910840474024
+TTL_94T96: Other service activities,TTL_24: Basic metals,Similar,0.7024158037731891
+TTL_94T96: Other service activities,TTL_25: Fabricated metal products,Similar,0.731107426071915
+TTL_94T96: Other service activities,"TTL_26: Computer, electronic and optical equipment",Similar,0.7325760913941619
+TTL_94T96: Other service activities,TTL_27: Electrical equipment,Similar,0.721768189352949
+TTL_94T96: Other service activities,"TTL_28: Machinery and equipment, nec",Similar,0.7382670345281568
+TTL_94T96: Other service activities,"TTL_29: Motor vehicles, trailers and semi-trailers",Similar,0.7292934144527757
+TTL_94T96: Other service activities,TTL_30: Other transport equipment,Similar,0.672030375694064
+TTL_94T96: Other service activities,TTL_31T33: Manufacturing nec; repair and installation of machinery and equipment,Similar,0.6794905838470565
+TTL_94T96: Other service activities,"TTL_35: Electricity, gas, steam and air conditioning supply",Similar,0.7460044584979539
+TTL_94T96: Other service activities,"TTL_36T39: Water supply; sewerage, waste management and remediation activities",Similar,0.7325696703542093
+TTL_94T96: Other service activities,TTL_41T43: Construction,Similar,0.670712936494245
+TTL_94T96: Other service activities,TTL_45T47: Wholesale and retail trade; repair of motor vehicles,Similar,0.7417327846498702
+TTL_94T96: Other service activities,TTL_49: Land transport and transport via pipelines,Similar,0.730731679517561
+TTL_94T96: Other service activities,TTL_50: Water transport,Similar,0.7292011053719496
+TTL_94T96: Other service activities,TTL_51: Air transport,Similar,0.709288628069699
+TTL_94T96: Other service activities,TTL_52: Warehousing and support activities for transportation,Similar,0.7490040758802217
+TTL_94T96: Other service activities,TTL_53: Postal and courier activities,Similar,0.7129356095580255
+TTL_94T96: Other service activities,TTL_55T56: Accommodation and food service activities,Similar,0.6921508780584487
+TTL_94T96: Other service activities,"TTL_58T60: Publishing, audiovisual and broadcasting activities",Similar,0.755676488594017
+TTL_94T96: Other service activities,TTL_61: Telecommunications,Similar,0.7113203402840429
+TTL_94T96: Other service activities,TTL_62T63: IT and other information services,Similar,0.7167554875073483
+TTL_94T96: Other service activities,TTL_64T66: Financial and insurance activities,Similar,0.7360068866397461
+TTL_94T96: Other service activities,"TTL_69T75: Professional, scientific and technical activities",Similar,0.7471558688981857
+TTL_94T96: Other service activities,TTL_77T82: Administrative and support services,Similar,0.7470777156213745
+TTL_94T96: Other service activities,TTL_84: Public administration and defence; compulsory social security,Similar,0.7696868076827669
+TTL_94T96: Other service activities,TTL_85: Education,Similar,0.7083850518751095
+TTL_94T96: Other service activities,"TTL_90T93: Arts, entertainment and recreation",Similar,0.7226079713142114
