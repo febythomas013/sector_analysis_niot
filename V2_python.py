@@ -8,7 +8,7 @@ st.set_page_config(layout="wide")
 st.title("📊 Leontief-Based Economic Shock Simulator (2022 NIOT)")
 
 # === Load real Leontief matrix ===
-leontief_df = pd.read_excel(r"C:\Users\1771\OneDrive - Andhra Pradesh Centre for Financial Systems and Services\Personal Docs\IOT\V2\NIOT_2022.xlsx", sheet_name="Leontief_Val", index_col=0)
+leontief_df = pd.read_excel(r"NIOT_2022.xlsx", sheet_name="Leontief_Val", index_col=0)
 L_matrix = leontief_df.values
 sector_names = leontief_df.index.tolist()
 n = len(sector_names)
