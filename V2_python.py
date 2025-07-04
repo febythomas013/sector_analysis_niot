@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.set_page_config(layout="wide")
-st.title("📊 Leontief-Based Economic Shock Simulator (2022 NIOT)")
+st.title("📊 India Sectoral Impact Analysis (based on NIOT 2022)")
 
 # === Load real Leontief matrix ===
 leontief_df = pd.read_excel(r"NIOT_2022.xlsx", sheet_name="Leontief_Val", index_col=0)
